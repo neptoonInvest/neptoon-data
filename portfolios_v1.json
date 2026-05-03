@@ -1,20 +1,6204 @@
 {
   "version": "2026-05",
-  "updatedAt": "2026-05-01",
+  "updatedAt": "2026-05-03T09:21:35.193Z",
+  "source": "Neptoon Invest",
+  "count": 26,
   "portfolios": [
     {
-      "modelNo": 1,
-      "modelName": "Bohr",
-      "riskLabel": "Very Low Risk",
-      "expRetNet": 0.034,
-      "risk": 0.045,
-      "costs": 0.006,
-      "sharpeRatioNet": 0.41,
-      "holdings": [
+      "modelNo": 0,
+      "modelLabel": "Neptoon Global Aggressiv",
+      "modelKategory": "neptoon",
+      "modelMainIssuer": "neptoon",
+      "objKeyfigures": {
+        "singleStocksWeight": 0,
+        "sharpeRatioNet": 0.2890084384818412,
+        "bondsWeight": 0.2,
+        "alternativesWeight": 0,
+        "expRetNet": 0.0820787564973613,
+        "risk": 0.14559698228328774,
+        "equityWeight": 0.7999999999999999,
+        "expRetGross": 0.08460000000000001,
+        "costs": 0.0023299999999999432
+      },
+      "arrayHoldings": [
         {
-          "isin": "US5949181045",
-          "name": "Microsoft",
-          "weight": 0.10
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Lange Stat- Real Obligationer",
+            "en": "EUR Long Gov - Covered"
+          },
+          "sharpeRatioNet": 0.099234,
+          "tickerExchange": "0P0001UOUI.CO",
+          "classMajorEng": "Long Government and Covered Bonds",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0063181698",
+          "instrumentName": "Nykredit Invest Lange Obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.045954,
+          "risk": 0.06,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Lange Stat- Real Obligationer",
+          "classNo": 1,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.047,
+          "ccy": "DKK",
+          "costs": 0.001
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (IG)",
+            "en": "EUR Investmet Grade (IG)"
+          },
+          "sharpeRatioNet": 0.123752,
+          "tickerExchange": "EUN5.XETRA",
+          "classMajorEng": "Euro Investment Grade Credit",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B3F81R35",
+          "instrumentName": "iShares Core EUR Corporate Bond",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.0499,
+          "risk": 0.08,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (IG)",
+          "classNo": 2,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.052,
+          "ccy": "EUR",
+          "costs": 0.002
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (HY)",
+            "en": "EUR High Yield Grade (HY)"
+          },
+          "sharpeRatioNet": 0.201691,
+          "tickerExchange": "EUNW.XETRA",
+          "classMajorEng": "Euro High Yield Credit",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B66F4759",
+          "instrumentName": "iShares EUR High Yield",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.060169,
+          "risk": 0.1,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (HY)",
+          "classNo": 3,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.066,
+          "ccy": "EUR",
+          "costs": 0.0055
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Danmark",
+            "en": "Denmark"
+          },
+          "sharpeRatioNet": 0.25851,
+          "tickerExchange": "XACTC25.CO",
+          "classMajorEng": "Denmark",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "SE0011452127",
+          "instrumentName": "XACT OMXC25 ESG",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.087824,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Danmark",
+          "classNo": 5,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.002
+        },
+        {
+          "weight": 0.35,
+          "classMajor": {
+            "da": "USA",
+            "en": "US"
+          },
+          "sharpeRatioNet": 0.250891,
+          "tickerExchange": "SXR4.XETRA",
+          "classMajorEng": "United States",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B52SFT06",
+          "instrumentName": "iShares MSCI USA",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.086415,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "USA",
+          "classNo": 8,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "EUR",
+          "costs": 0.0033
+        },
+        {
+          "weight": 0.2,
+          "classMajor": {
+            "da": "Europa",
+            "en": "Europe"
+          },
+          "sharpeRatioNet": 0.263796,
+          "tickerExchange": "EXW1.XETRA",
+          "classMajorEng": "Europe",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "DE0005933956",
+          "instrumentName": "iShares EURO STOXX 50",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.088802,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Europa",
+          "classNo": 9,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "EUR",
+          "costs": 0.0011
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "MSCI EM",
+            "en": "Emerging Markets"
+          },
+          "sharpeRatioNet": 0.302247,
+          "tickerExchange": "IS3N.XETRA",
+          "classMajorEng": "MSCI Emerging Markets",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00BKM4GZ66",
+          "instrumentName": "iShares Core MSCI Emerging Markets",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.108006,
+          "risk": 0.225,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Emerging (EM)",
+          "classNo": 18,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.11,
+          "ccy": "EUR",
+          "costs": 0.0018
+        }
+      ]
+    },
+    {
+      "modelNo": 1,
+      "modelLabel": "Neptoon Global Balanceret",
+      "modelKategory": "neptoon",
+      "modelMainIssuer": "neptoon",
+      "objKeyfigures": {
+        "singleStocksWeight": 0,
+        "sharpeRatioNet": 0.3053163029903698,
+        "bondsWeight": 0.4,
+        "alternativesWeight": 0,
+        "expRetNet": 0.07470668050123686,
+        "risk": 0.11367450791624303,
+        "equityWeight": 0.6,
+        "expRetGross": 0.07719999999999994,
+        "costs": 0.0023200000000000998
+      },
+      "arrayHoldings": [
+        {
+          "weight": 0.2,
+          "classMajor": {
+            "da": "Lange Stat- Real Obligationer",
+            "en": "EUR Long Gov - Covered"
+          },
+          "sharpeRatioNet": 0.099234,
+          "tickerExchange": "0P0001UOUI.CO",
+          "classMajorEng": "Long Government and Covered Bonds",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0063181698",
+          "instrumentName": "Nykredit Invest Lange Obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.045954,
+          "risk": 0.06,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Lange Stat- Real Obligationer",
+          "classNo": 1,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.047,
+          "ccy": "DKK",
+          "costs": 0.001
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (IG)",
+            "en": "EUR Investmet Grade (IG)"
+          },
+          "sharpeRatioNet": 0.123752,
+          "tickerExchange": "EUN5.XETRA",
+          "classMajorEng": "Euro Investment Grade Credit",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B3F81R35",
+          "instrumentName": "iShares Core EUR Corporate Bond",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.0499,
+          "risk": 0.08,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (IG)",
+          "classNo": 2,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.052,
+          "ccy": "EUR",
+          "costs": 0.002
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (HY)",
+            "en": "EUR High Yield Grade (HY)"
+          },
+          "sharpeRatioNet": 0.201691,
+          "tickerExchange": "EUNW.XETRA",
+          "classMajorEng": "Euro High Yield Credit",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B66F4759",
+          "instrumentName": "iShares EUR High Yield",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.060169,
+          "risk": 0.1,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (HY)",
+          "classNo": 3,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.066,
+          "ccy": "EUR",
+          "costs": 0.0055
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Danmark",
+            "en": "Denmark"
+          },
+          "sharpeRatioNet": 0.25851,
+          "tickerExchange": "XACTC25.CO",
+          "classMajorEng": "Denmark",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "SE0011452127",
+          "instrumentName": "XACT OMXC25 ESG",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.087824,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Danmark",
+          "classNo": 5,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.002
+        },
+        {
+          "weight": 0.25,
+          "classMajor": {
+            "da": "USA",
+            "en": "US"
+          },
+          "sharpeRatioNet": 0.250891,
+          "tickerExchange": "SXR4.XETRA",
+          "classMajorEng": "United States",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B52SFT06",
+          "instrumentName": "iShares MSCI USA",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.086415,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "USA",
+          "classNo": 8,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "EUR",
+          "costs": 0.0033
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Europa",
+            "en": "Europe"
+          },
+          "sharpeRatioNet": 0.263796,
+          "tickerExchange": "EXW1.XETRA",
+          "classMajorEng": "Europe",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "DE0005933956",
+          "instrumentName": "iShares EURO STOXX 50",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.088802,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Europa",
+          "classNo": 9,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "EUR",
+          "costs": 0.0011
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "MSCI EM",
+            "en": "Emerging Markets"
+          },
+          "sharpeRatioNet": 0.302247,
+          "tickerExchange": "IS3N.XETRA",
+          "classMajorEng": "MSCI Emerging Markets",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00BKM4GZ66",
+          "instrumentName": "iShares Core MSCI Emerging Markets",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.108006,
+          "risk": 0.225,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Emerging (EM)",
+          "classNo": 18,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.11,
+          "ccy": "EUR",
+          "costs": 0.0018
+        }
+      ]
+    },
+    {
+      "modelNo": 2,
+      "modelLabel": "Neptoon Global Defensiv",
+      "modelKategory": "neptoon",
+      "modelMainIssuer": "neptoon",
+      "objKeyfigures": {
+        "singleStocksWeight": 0,
+        "sharpeRatioNet": 0.31986945467450373,
+        "bondsWeight": 0.65,
+        "alternativesWeight": 0,
+        "expRetNet": 0.0642341883923494,
+        "risk": 0.07576274645232972,
+        "equityWeight": 0.35000000000000003,
+        "expRetGross": 0.0666500000000001,
+        "costs": 0.0022699999999999942
+      },
+      "arrayHoldings": [
+        {
+          "weight": 0.35,
+          "classMajor": {
+            "da": "Lange Stat- Real Obligationer",
+            "en": "EUR Long Gov - Covered"
+          },
+          "sharpeRatioNet": 0.099234,
+          "tickerExchange": "0P0001UOUI.CO",
+          "classMajorEng": "Long Government and Covered Bonds",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0063181698",
+          "instrumentName": "Nykredit Invest Lange Obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.045954,
+          "risk": 0.06,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Lange Stat- Real Obligationer",
+          "classNo": 1,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.047,
+          "ccy": "DKK",
+          "costs": 0.001
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (IG)",
+            "en": "EUR Investmet Grade (IG)"
+          },
+          "sharpeRatioNet": 0.123752,
+          "tickerExchange": "EUN5.XETRA",
+          "classMajorEng": "Euro Investment Grade Credit",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B3F81R35",
+          "instrumentName": "iShares Core EUR Corporate Bond",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.0499,
+          "risk": 0.08,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (IG)",
+          "classNo": 2,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.052,
+          "ccy": "EUR",
+          "costs": 0.002
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (HY)",
+            "en": "EUR High Yield Grade (HY)"
+          },
+          "sharpeRatioNet": 0.201691,
+          "tickerExchange": "EUNW.XETRA",
+          "classMajorEng": "Euro High Yield Credit",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B66F4759",
+          "instrumentName": "iShares EUR High Yield",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.060169,
+          "risk": 0.1,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (HY)",
+          "classNo": 3,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.066,
+          "ccy": "EUR",
+          "costs": 0.0055
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Danmark",
+            "en": "Denmark"
+          },
+          "sharpeRatioNet": 0.25851,
+          "tickerExchange": "XACTC25.CO",
+          "classMajorEng": "Denmark",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "SE0011452127",
+          "instrumentName": "XACT OMXC25 ESG",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.087824,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Danmark",
+          "classNo": 5,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.002
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "USA",
+            "en": "US"
+          },
+          "sharpeRatioNet": 0.250891,
+          "tickerExchange": "SXR4.XETRA",
+          "classMajorEng": "United States",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B52SFT06",
+          "instrumentName": "iShares MSCI USA",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.086415,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "USA",
+          "classNo": 8,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "EUR",
+          "costs": 0.0033
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Europa",
+            "en": "Europe"
+          },
+          "sharpeRatioNet": 0.263796,
+          "tickerExchange": "EXW1.XETRA",
+          "classMajorEng": "Europe",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "DE0005933956",
+          "instrumentName": "iShares EURO STOXX 50",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.088802,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Europa",
+          "classNo": 9,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "EUR",
+          "costs": 0.0011
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "MSCI EM",
+            "en": "Emerging Markets"
+          },
+          "sharpeRatioNet": 0.302247,
+          "tickerExchange": "IS3N.XETRA",
+          "classMajorEng": "MSCI Emerging Markets",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00BKM4GZ66",
+          "instrumentName": "iShares Core MSCI Emerging Markets",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.108006,
+          "risk": 0.225,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Emerging (EM)",
+          "classNo": 18,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.11,
+          "ccy": "EUR",
+          "costs": 0.0018
+        }
+      ]
+    },
+    {
+      "modelNo": 3,
+      "modelLabel": "Neptoon Bohr",
+      "modelKategory": "neptoon",
+      "modelMainIssuer": "neptoon",
+      "objKeyfigures": {
+        "singleStocksWeight": 0,
+        "sharpeRatioNet": 0.27948901227058043,
+        "bondsWeight": 0.85,
+        "alternativesWeight": 0.15000000000000002,
+        "expRetNet": 0.051805102742799036,
+        "risk": 0.04223816402259927,
+        "equityWeight": 0,
+        "expRetGross": 0.054950000000000054,
+        "costs": 0.002990000000000048
+      },
+      "arrayHoldings": [
+        {
+          "weight": 0.45,
+          "classMajor": {
+            "da": "Korte Stat- Real Obligationer",
+            "en": "EUR Short Gov - Covered"
+          },
+          "sharpeRatioNet": 0.072488,
+          "tickerExchange": "NYIKO.CO",
+          "classMajorEng": "Short Government and Covered Bonds",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060009249",
+          "instrumentName": "Nykredit Invest Korte Obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.041812,
+          "risk": 0.025,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Korte Stat- Real Obligationer",
+          "classNo": 0,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.044,
+          "ccy": "DKK",
+          "costs": 0.0021
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (IG)",
+            "en": "EUR Investmet Grade (IG)"
+          },
+          "sharpeRatioNet": 0.123752,
+          "tickerExchange": "EUN5.XETRA",
+          "classMajorEng": "Euro Investment Grade Credit",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B3F81R35",
+          "instrumentName": "iShares Core EUR Corporate Bond",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.0499,
+          "risk": 0.08,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (IG)",
+          "classNo": 2,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.052,
+          "ccy": "EUR",
+          "costs": 0.002
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (HY)",
+            "en": "EUR High Yield Grade (HY)"
+          },
+          "sharpeRatioNet": 0.201691,
+          "tickerExchange": "EUNW.XETRA",
+          "classMajorEng": "Euro High Yield Credit",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B66F4759",
+          "instrumentName": "iShares EUR High Yield",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.060169,
+          "risk": 0.1,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (HY)",
+          "classNo": 3,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.066,
+          "ccy": "EUR",
+          "costs": 0.0055
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Emerging Obligationer (EM)",
+            "en": "Emerging Market Bonds"
+          },
+          "sharpeRatioNet": 0.220739,
+          "tickerExchange": "JPBM.XETRA",
+          "classMajorEng": "Emerging Market Bonds",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00BDFC6G93",
+          "instrumentName": "JPM USD Emerging Bonds",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.059867,
+          "risk": 0.09,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Emerging Obligationer (EM)",
+          "classNo": 4,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.064,
+          "ccy": "EUR",
+          "costs": 0.0039
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Råvarer",
+            "en": "Commodities"
+          },
+          "sharpeRatioNet": 0.223219,
+          "tickerExchange": "LYTR.XETRA",
+          "classMajorEng": "Commodities",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "LU1829218749",
+          "instrumentName": "Amundi Bloomberg Equal-weight Commodity",
+          "classMajorTopDK": "Alternativer",
+          "expRetNet": 0.071251,
+          "risk": 0.14,
+          "classMajorTop": {
+            "da": "Alternativer",
+            "en": "Alternatives"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Alternatives",
+          "classMajorDK": "Råvarer",
+          "classNo": 20,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.075,
+          "ccy": "EUR",
+          "costs": 0.0035
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Guld",
+            "en": "Gold"
+          },
+          "sharpeRatioNet": 0.226528,
+          "tickerExchange": "8PSG.XETRA",
+          "classMajorEng": "Gold",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B579F325",
+          "instrumentName": "Invesco Physical Gold A",
+          "classMajorTopDK": "Alternativer",
+          "expRetNet": 0.071714,
+          "risk": 0.14,
+          "classMajorTop": {
+            "da": "Alternativer",
+            "en": "Alternatives"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Alternatives",
+          "classMajorDK": "Guld",
+          "classNo": 21,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.073,
+          "ccy": "EUR",
+          "costs": 0.0012
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Ejendomme",
+            "en": "Real Estate"
+          },
+          "sharpeRatioNet": 0.222554,
+          "tickerExchange": "IQQ6.XETRA",
+          "classMajorEng": "Real Estate",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B1FZS350",
+          "instrumentName": "iShares Developed Markets Property",
+          "classMajorTopDK": "Alternativer",
+          "expRetNet": 0.066706,
+          "risk": 0.12,
+          "classMajorTop": {
+            "da": "Alternativer",
+            "en": "Alternatives"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Alternatives",
+          "classMajorDK": "Ejendomme",
+          "classNo": 22,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.073,
+          "ccy": "EUR",
+          "costs": 0.0059
+        }
+      ]
+    },
+    {
+      "modelNo": 4,
+      "modelLabel": "Neptoon Ørsted",
+      "modelKategory": "neptoon",
+      "modelMainIssuer": "neptoon",
+      "objKeyfigures": {
+        "singleStocksWeight": 0,
+        "sharpeRatioNet": 0.3327975086164482,
+        "bondsWeight": 0.5,
+        "alternativesWeight": 0.1,
+        "expRetNet": 0.06803525204614491,
+        "risk": 0.08424117164427383,
+        "equityWeight": 0.39999999999999997,
+        "expRetGross": 0.07069999999999999,
+        "costs": 0.002494999999999914
+      },
+      "arrayHoldings": [
+        {
+          "weight": 0.3,
+          "classMajor": {
+            "da": "Korte Stat- Real Obligationer",
+            "en": "EUR Short Gov - Covered"
+          },
+          "sharpeRatioNet": 0.072488,
+          "tickerExchange": "NYIKO.CO",
+          "classMajorEng": "Short Government and Covered Bonds",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060009249",
+          "instrumentName": "Nykredit Invest Korte Obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.041812,
+          "risk": 0.025,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Korte Stat- Real Obligationer",
+          "classNo": 0,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.044,
+          "ccy": "DKK",
+          "costs": 0.0021
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (IG)",
+            "en": "EUR Investmet Grade (IG)"
+          },
+          "sharpeRatioNet": 0.123752,
+          "tickerExchange": "EUN5.XETRA",
+          "classMajorEng": "Euro Investment Grade Credit",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B3F81R35",
+          "instrumentName": "iShares Core EUR Corporate Bond",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.0499,
+          "risk": 0.08,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (IG)",
+          "classNo": 2,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.052,
+          "ccy": "EUR",
+          "costs": 0.002
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (HY)",
+            "en": "EUR High Yield Grade (HY)"
+          },
+          "sharpeRatioNet": 0.201691,
+          "tickerExchange": "EUNW.XETRA",
+          "classMajorEng": "Euro High Yield Credit",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B66F4759",
+          "instrumentName": "iShares EUR High Yield",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.060169,
+          "risk": 0.1,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (HY)",
+          "classNo": 3,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.066,
+          "ccy": "EUR",
+          "costs": 0.0055
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Danmark",
+            "en": "Denmark"
+          },
+          "sharpeRatioNet": 0.25851,
+          "tickerExchange": "XACTC25.CO",
+          "classMajorEng": "Denmark",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "SE0011452127",
+          "instrumentName": "XACT OMXC25 ESG",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.087824,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Danmark",
+          "classNo": 5,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.002
+        },
+        {
+          "weight": 0.2,
+          "classMajor": {
+            "da": "MSCI DM",
+            "en": "Developed Markets"
+          },
+          "sharpeRatioNet": 0.292665,
+          "tickerExchange": "EUNL.XETRA",
+          "classMajorEng": "MSCI Developed Markets",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B4L5Y983",
+          "instrumentName": "iShares Core MSCI World",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.086826,
+          "risk": 0.16,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Developed (DM)",
+          "classNo": 17,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.089,
+          "ccy": "EUR",
+          "costs": 0.002
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "MSCI EM",
+            "en": "Emerging Markets"
+          },
+          "sharpeRatioNet": 0.302247,
+          "tickerExchange": "IS3N.XETRA",
+          "classMajorEng": "MSCI Emerging Markets",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00BKM4GZ66",
+          "instrumentName": "iShares Core MSCI Emerging Markets",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.108006,
+          "risk": 0.225,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Emerging (EM)",
+          "classNo": 18,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.11,
+          "ccy": "EUR",
+          "costs": 0.0018
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Råvarer",
+            "en": "Commodities"
+          },
+          "sharpeRatioNet": 0.223219,
+          "tickerExchange": "LYTR.XETRA",
+          "classMajorEng": "Commodities",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "LU1829218749",
+          "instrumentName": "Amundi Bloomberg Equal-weight Commodity",
+          "classMajorTopDK": "Alternativer",
+          "expRetNet": 0.071251,
+          "risk": 0.14,
+          "classMajorTop": {
+            "da": "Alternativer",
+            "en": "Alternatives"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Alternatives",
+          "classMajorDK": "Råvarer",
+          "classNo": 20,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.075,
+          "ccy": "EUR",
+          "costs": 0.0035
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Guld",
+            "en": "Gold"
+          },
+          "sharpeRatioNet": 0.226528,
+          "tickerExchange": "8PSG.XETRA",
+          "classMajorEng": "Gold",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B579F325",
+          "instrumentName": "Invesco Physical Gold A",
+          "classMajorTopDK": "Alternativer",
+          "expRetNet": 0.071714,
+          "risk": 0.14,
+          "classMajorTop": {
+            "da": "Alternativer",
+            "en": "Alternatives"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Alternatives",
+          "classMajorDK": "Guld",
+          "classNo": 21,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.073,
+          "ccy": "EUR",
+          "costs": 0.0012
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Tema1 - Forsvar",
+            "en": "Defense"
+          },
+          "sharpeRatioNet": 0.252807,
+          "tickerExchange": "EUDF.XETRA",
+          "classMajorEng": "Theme 1 – Defense",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE0002Y8CX98",
+          "instrumentName": "WisdomTree Europe Defence",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.095618,
+          "risk": 0.22,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Tema1 - Forsvar",
+          "classNo": 25,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.1,
+          "ccy": "EUR",
+          "costs": 0.004
+        }
+      ]
+    },
+    {
+      "modelNo": 5,
+      "modelLabel": "Neptoon Tycho",
+      "modelKategory": "neptoon",
+      "modelMainIssuer": "neptoon",
+      "objKeyfigures": {
+        "singleStocksWeight": 0,
+        "sharpeRatioNet": 0.314253187475281,
+        "bondsWeight": 0.30000000000000004,
+        "alternativesWeight": 0.05,
+        "expRetNet": 0.07709196147896802,
+        "risk": 0.1180320930933617,
+        "equityWeight": 0.65,
+        "expRetGross": 0.07929999999999993,
+        "costs": 0.0020500000000001073
+      },
+      "arrayHoldings": [
+        {
+          "weight": 0.2,
+          "classMajor": {
+            "da": "Korte Stat- Real Obligationer",
+            "en": "EUR Short Gov - Covered"
+          },
+          "sharpeRatioNet": 0.072488,
+          "tickerExchange": "NYIKO.CO",
+          "classMajorEng": "Short Government and Covered Bonds",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060009249",
+          "instrumentName": "Nykredit Invest Korte Obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.041812,
+          "risk": 0.025,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Korte Stat- Real Obligationer",
+          "classNo": 0,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.044,
+          "ccy": "DKK",
+          "costs": 0.0021
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (IG)",
+            "en": "EUR Investmet Grade (IG)"
+          },
+          "sharpeRatioNet": 0.123752,
+          "tickerExchange": "EUN5.XETRA",
+          "classMajorEng": "Euro Investment Grade Credit",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B3F81R35",
+          "instrumentName": "iShares Core EUR Corporate Bond",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.0499,
+          "risk": 0.08,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (IG)",
+          "classNo": 2,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.052,
+          "ccy": "EUR",
+          "costs": 0.002
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Danmark",
+            "en": "Denmark"
+          },
+          "sharpeRatioNet": 0.25851,
+          "tickerExchange": "XACTC25.CO",
+          "classMajorEng": "Denmark",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "SE0011452127",
+          "instrumentName": "XACT OMXC25 ESG",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.087824,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Danmark",
+          "classNo": 5,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.002
+        },
+        {
+          "weight": 0.35,
+          "classMajor": {
+            "da": "MSCI DM",
+            "en": "Developed Markets"
+          },
+          "sharpeRatioNet": 0.292665,
+          "tickerExchange": "EUNL.XETRA",
+          "classMajorEng": "MSCI Developed Markets",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B4L5Y983",
+          "instrumentName": "iShares Core MSCI World",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.086826,
+          "risk": 0.16,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Developed (DM)",
+          "classNo": 17,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.089,
+          "ccy": "EUR",
+          "costs": 0.002
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "MSCI EM",
+            "en": "Emerging Markets"
+          },
+          "sharpeRatioNet": 0.302247,
+          "tickerExchange": "IS3N.XETRA",
+          "classMajorEng": "MSCI Emerging Markets",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00BKM4GZ66",
+          "instrumentName": "iShares Core MSCI Emerging Markets",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.108006,
+          "risk": 0.225,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Emerging (EM)",
+          "classNo": 18,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.11,
+          "ccy": "EUR",
+          "costs": 0.0018
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Guld",
+            "en": "Gold"
+          },
+          "sharpeRatioNet": 0.226528,
+          "tickerExchange": "8PSG.XETRA",
+          "classMajorEng": "Gold",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B579F325",
+          "instrumentName": "Invesco Physical Gold A",
+          "classMajorTopDK": "Alternativer",
+          "expRetNet": 0.071714,
+          "risk": 0.14,
+          "classMajorTop": {
+            "da": "Alternativer",
+            "en": "Alternatives"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Alternatives",
+          "classMajorDK": "Guld",
+          "classNo": 21,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.073,
+          "ccy": "EUR",
+          "costs": 0.0012
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Tema1 - Forsvar",
+            "en": "Defense"
+          },
+          "sharpeRatioNet": 0.252807,
+          "tickerExchange": "EUDF.XETRA",
+          "classMajorEng": "Theme 1 – Defense",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE0002Y8CX98",
+          "instrumentName": "WisdomTree Europe Defence",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.095618,
+          "risk": 0.22,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Tema1 - Forsvar",
+          "classNo": 25,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.1,
+          "ccy": "EUR",
+          "costs": 0.004
+        }
+      ]
+    },
+    {
+      "modelNo": 6,
+      "modelLabel": "Neptoon Turing",
+      "modelKategory": "neptoon",
+      "modelMainIssuer": "neptoon",
+      "objKeyfigures": {
+        "singleStocksWeight": 0,
+        "sharpeRatioNet": 0.3110946995849966,
+        "bondsWeight": 0,
+        "alternativesWeight": 0.05,
+        "expRetNet": 0.09180349133651644,
+        "risk": 0.1665200063055488,
+        "equityWeight": 0.9500000000000002,
+        "expRetGross": 0.09420000000000006,
+        "costs": 0.002194999999999947
+      },
+      "arrayHoldings": [
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Danmark",
+            "en": "Denmark"
+          },
+          "sharpeRatioNet": 0.25851,
+          "tickerExchange": "XACTC25.CO",
+          "classMajorEng": "Denmark",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "SE0011452127",
+          "instrumentName": "XACT OMXC25 ESG",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.087824,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Danmark",
+          "classNo": 5,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.002
+        },
+        {
+          "weight": 0.45,
+          "classMajor": {
+            "da": "MSCI DM",
+            "en": "Developed Markets"
+          },
+          "sharpeRatioNet": 0.292665,
+          "tickerExchange": "EUNL.XETRA",
+          "classMajorEng": "MSCI Developed Markets",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B4L5Y983",
+          "instrumentName": "iShares Core MSCI World",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.086826,
+          "risk": 0.16,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Developed (DM)",
+          "classNo": 17,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.089,
+          "ccy": "EUR",
+          "costs": 0.002
+        },
+        {
+          "weight": 0.2,
+          "classMajor": {
+            "da": "MSCI EM",
+            "en": "Emerging Markets"
+          },
+          "sharpeRatioNet": 0.302247,
+          "tickerExchange": "IS3N.XETRA",
+          "classMajorEng": "MSCI Emerging Markets",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00BKM4GZ66",
+          "instrumentName": "iShares Core MSCI Emerging Markets",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.108006,
+          "risk": 0.225,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Emerging (EM)",
+          "classNo": 18,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.11,
+          "ccy": "EUR",
+          "costs": 0.0018
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Guld",
+            "en": "Gold"
+          },
+          "sharpeRatioNet": 0.226528,
+          "tickerExchange": "8PSG.XETRA",
+          "classMajorEng": "Gold",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B579F325",
+          "instrumentName": "Invesco Physical Gold A",
+          "classMajorTopDK": "Alternativer",
+          "expRetNet": 0.071714,
+          "risk": 0.14,
+          "classMajorTop": {
+            "da": "Alternativer",
+            "en": "Alternatives"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Alternatives",
+          "classMajorDK": "Guld",
+          "classNo": 21,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.073,
+          "ccy": "EUR",
+          "costs": 0.0012
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Tema1 - Forsvar",
+            "en": "Defense"
+          },
+          "sharpeRatioNet": 0.252807,
+          "tickerExchange": "EUDF.XETRA",
+          "classMajorEng": "Theme 1 – Defense",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE0002Y8CX98",
+          "instrumentName": "WisdomTree Europe Defence",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.095618,
+          "risk": 0.22,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Tema1 - Forsvar",
+          "classNo": 25,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.1,
+          "ccy": "EUR",
+          "costs": 0.004
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Tema2 - FremtidsMobilitet",
+            "en": "Future Mobility"
+          },
+          "sharpeRatioNet": 0.252807,
+          "tickerExchange": "2B76.XETRA",
+          "classMajorEng": "Theme 2 – Future Mobility",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00BYZK4552",
+          "instrumentName": "iShares Automation & Robotics",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.095618,
+          "risk": 0.22,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Tema2 - FremtidsMobilitet",
+          "classNo": 26,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.1,
+          "ccy": "EUR",
+          "costs": 0.004
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Tema3 - Artificial Intelligence",
+            "en": "Artificial Intelligence"
+          },
+          "sharpeRatioNet": 0.255288,
+          "tickerExchange": "XAIX.XETRA",
+          "classMajorEng": "Theme 3 – Artificial Intelligence",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00BGV5VN51",
+          "instrumentName": "Xtrackers Artificial Intelligence & Big Data",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.096163,
+          "risk": 0.22,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Tema3 - Artificial Intelligence",
+          "classNo": 27,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.1,
+          "ccy": "EUR",
+          "costs": 0.0035
+        }
+      ]
+    },
+    {
+      "modelNo": 7,
+      "modelLabel": "Neptoon Oppenheimer",
+      "modelKategory": "neptoon",
+      "modelMainIssuer": "neptoon",
+      "objKeyfigures": {
+        "singleStocksWeight": 0.1,
+        "sharpeRatioNet": 0.30731727824470856,
+        "bondsWeight": 0,
+        "alternativesWeight": 0.15,
+        "expRetNet": 0.1068931293141282,
+        "risk": 0.21766797394601087,
+        "equityWeight": 0.8500000000000001,
+        "expRetGross": 0.1096824999999999,
+        "costs": 0.0025200000000000777
+      },
+      "arrayHoldings": [
+        {
+          "weight": 0.3,
+          "classMajor": {
+            "da": "MSCI DM",
+            "en": "Developed Markets"
+          },
+          "sharpeRatioNet": 0.292665,
+          "tickerExchange": "EUNL.XETRA",
+          "classMajorEng": "MSCI Developed Markets",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B4L5Y983",
+          "instrumentName": "iShares Core MSCI World",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.086826,
+          "risk": 0.16,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Developed (DM)",
+          "classNo": 17,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.089,
+          "ccy": "EUR",
+          "costs": 0.002
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "MSCI EM",
+            "en": "Emerging Markets"
+          },
+          "sharpeRatioNet": 0.302247,
+          "tickerExchange": "IS3N.XETRA",
+          "classMajorEng": "MSCI Emerging Markets",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00BKM4GZ66",
+          "instrumentName": "iShares Core MSCI Emerging Markets",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.108006,
+          "risk": 0.225,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Emerging (EM)",
+          "classNo": 18,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.11,
+          "ccy": "EUR",
+          "costs": 0.0018
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Krypto",
+            "en": "Cryptocurrency"
+          },
+          "sharpeRatioNet": 0.252307,
+          "tickerExchange": "WBIT.XETRA",
+          "classMajorEng": "Crypto",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "GB00BJYDH287",
+          "instrumentName": "WisdomTree Physical Bitcoin",
+          "classMajorTopDK": "Alternativer",
+          "expRetNet": 0.128308,
+          "risk": 0.35,
+          "classMajorTop": {
+            "da": "Alternativer",
+            "en": "Alternatives"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Alternatives",
+          "classMajorDK": "Krypto",
+          "classNo": 24,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.13,
+          "ccy": "EUR",
+          "costs": 0.0015
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Tema3 - Artificial Intelligence",
+            "en": "Artificial Intelligence"
+          },
+          "sharpeRatioNet": 0.255288,
+          "tickerExchange": "XAIX.XETRA",
+          "classMajorEng": "Theme 3 – Artificial Intelligence",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00BGV5VN51",
+          "instrumentName": "Xtrackers Artificial Intelligence & Big Data",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.096163,
+          "risk": 0.22,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Tema3 - Artificial Intelligence",
+          "classNo": 27,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.1,
+          "ccy": "EUR",
+          "costs": 0.0035
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Tema4 - Gearing S&P 500",
+            "en": "Leveraged S&P 500"
+          },
+          "sharpeRatioNet": 0.251894,
+          "tickerExchange": "DBPG.XETRA",
+          "classMajorEng": "Theme 4 – Leveraged S&P 500",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "LU0411078552",
+          "instrumentName": "Xtrackers S&P 500 2x Leveraged Daily Swap",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.133201,
+          "risk": 0.37,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Tema4 - Gearing S&P 500",
+          "classNo": 28,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.14,
+          "ccy": "EUR",
+          "costs": 0.006
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "MSCI World",
+            "en": null
+          },
+          "sharpeRatioNet": 0.186731,
+          "tickerExchange": "NVDA.US",
+          "classMajorEng": "Global",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "US67066G1040",
+          "instrumentName": "NVIDIA Corporation",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.12134,
+          "risk": 0.4356,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": null
+          },
+          "instrumentTypeLabelDK": "Aktie",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global",
+          "classNo": 100,
+          "instrumentTypeLabelENG": "Stock",
+          "expRetGross": 0.12134,
+          "ccy": "USD",
+          "costs": 0
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "MSCI World",
+            "en": null
+          },
+          "sharpeRatioNet": 0.161792,
+          "tickerExchange": "AVGO.US",
+          "classMajorEng": "Global",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "US11135F1012",
+          "instrumentName": "Broadcom Inc",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.09831,
+          "risk": 0.3604,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": null
+          },
+          "instrumentTypeLabelDK": "Aktie",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global",
+          "classNo": 100,
+          "instrumentTypeLabelENG": "Stock",
+          "expRetGross": 0.09831,
+          "ccy": "USD",
+          "costs": 0
+        }
+      ]
+    },
+    {
+      "modelNo": 8,
+      "modelLabel": "Danske Bank Model Aggressiv",
+      "modelKategory": "banks",
+      "modelMainIssuer": "danskeBank",
+      "objKeyfigures": {
+        "singleStocksWeight": 0,
+        "sharpeRatioNet": 0.23918401938142547,
+        "bondsWeight": 0.2,
+        "alternativesWeight": 0,
+        "expRetNet": 0.07482447143232296,
+        "risk": 0.14559698228328774,
+        "equityWeight": 0.7999999999999999,
+        "expRetGross": 0.08460000000000001,
+        "costs": 0.009095000000000075
+      },
+      "arrayHoldings": [
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Lange Stat- Real Obligationer",
+            "en": "EUR Long Gov - Covered"
+          },
+          "sharpeRatioNet": 0.033307,
+          "tickerExchange": "DKIDKLOBL.CO",
+          "classMajorEng": "Long Government and Covered Bonds",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0016105380",
+          "instrumentName": "Danske Lange Obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.041998,
+          "risk": 0.06,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Lange Stat- Real Obligationer",
+          "classNo": 1,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.047,
+          "ccy": "DKK",
+          "costs": 0.0048
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (IG)",
+            "en": "EUR Investmet Grade (IG)"
+          },
+          "sharpeRatioNet": 0.057293,
+          "tickerExchange": "DKIEIGO.CO",
+          "classMajorEng": "Euro Investment Grade Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060448751",
+          "instrumentName": "DB Euro Investment Grade-Obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.044583,
+          "risk": 0.08,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (IG)",
+          "classNo": 2,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.052,
+          "ccy": "DKK",
+          "costs": 0.0071
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (HY)",
+            "en": "EUR High Yield Grade (HY)"
+          },
+          "sharpeRatioNet": 0.151321,
+          "tickerExchange": "DKIEUHYOAKKDKKH.CO",
+          "classMajorEng": "Euro High Yield Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060497378",
+          "instrumentName": "DB Euro High Yield-Obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.055132,
+          "risk": 0.1,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (HY)",
+          "classNo": 3,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.066,
+          "ccy": "DKK",
+          "costs": 0.0103
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Danmark",
+            "en": "Denmark"
+          },
+          "sharpeRatioNet": 0.190069,
+          "tickerExchange": "DKIDKF.CO",
+          "classMajorEng": "Denmark",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060244325",
+          "instrumentName": "DB Danmark Fokus",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.075163,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Danmark",
+          "classNo": 5,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.0138
+        },
+        {
+          "weight": 0.35,
+          "classMajor": {
+            "da": "USA",
+            "en": "US"
+          },
+          "sharpeRatioNet": 0.249721,
+          "tickerExchange": "0P0001JGHK.CO",
+          "classMajorEng": "United States",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0061270105",
+          "instrumentName": "Danske Invest USA Restricted",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.086198,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "USA",
+          "classNo": 8,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.0035
+        },
+        {
+          "weight": 0.2,
+          "classMajor": {
+            "da": "Europa",
+            "en": "Europe"
+          },
+          "sharpeRatioNet": 0.187777,
+          "tickerExchange": "DKIEU.CO",
+          "classMajorEng": "Europe",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0010252956",
+          "instrumentName": "Danske Invest Europa",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.074739,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Europa",
+          "classNo": 9,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.0142
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "MSCI EM",
+            "en": "Emerging Markets"
+          },
+          "sharpeRatioNet": 0.232943,
+          "tickerExchange": "DKINMAKK.CO",
+          "classMajorEng": "MSCI Emerging Markets",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060042026",
+          "instrumentName": "Danske Invest Nye Markeder",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.092412,
+          "risk": 0.225,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Emerging (EM)",
+          "classNo": 18,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.11,
+          "ccy": "DKK",
+          "costs": 0.0161
+        }
+      ]
+    },
+    {
+      "modelNo": 9,
+      "modelLabel": "Danske Bank Model Balanceret",
+      "modelKategory": "banks",
+      "modelMainIssuer": "danskeBank",
+      "objKeyfigures": {
+        "singleStocksWeight": 0,
+        "sharpeRatioNet": 0.24556502664578628,
+        "bondsWeight": 0.4,
+        "alternativesWeight": 0,
+        "expRetNet": 0.06791448356539886,
+        "risk": 0.11367450791624303,
+        "equityWeight": 0.6,
+        "expRetGross": 0.07719999999999994,
+        "costs": 0.008694999999999897
+      },
+      "arrayHoldings": [
+        {
+          "weight": 0.2,
+          "classMajor": {
+            "da": "Lange Stat- Real Obligationer",
+            "en": "EUR Long Gov - Covered"
+          },
+          "sharpeRatioNet": 0.033307,
+          "tickerExchange": "DKIDKLOBL.CO",
+          "classMajorEng": "Long Government and Covered Bonds",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0016105380",
+          "instrumentName": "Danske Lange Obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.041998,
+          "risk": 0.06,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Lange Stat- Real Obligationer",
+          "classNo": 1,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.047,
+          "ccy": "DKK",
+          "costs": 0.0048
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (IG)",
+            "en": "EUR Investmet Grade (IG)"
+          },
+          "sharpeRatioNet": 0.057293,
+          "tickerExchange": "DKIEIGO.CO",
+          "classMajorEng": "Euro Investment Grade Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060448751",
+          "instrumentName": "DB Euro Investment Grade-Obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.044583,
+          "risk": 0.08,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (IG)",
+          "classNo": 2,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.052,
+          "ccy": "DKK",
+          "costs": 0.0071
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (HY)",
+            "en": "EUR High Yield Grade (HY)"
+          },
+          "sharpeRatioNet": 0.151321,
+          "tickerExchange": "DKIEUHYOAKKDKKH.CO",
+          "classMajorEng": "Euro High Yield Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060497378",
+          "instrumentName": "DB Euro High Yield-Obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.055132,
+          "risk": 0.1,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (HY)",
+          "classNo": 3,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.066,
+          "ccy": "DKK",
+          "costs": 0.0103
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Danmark",
+            "en": "Denmark"
+          },
+          "sharpeRatioNet": 0.190069,
+          "tickerExchange": "DKIDKF.CO",
+          "classMajorEng": "Denmark",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060244325",
+          "instrumentName": "DB Danmark Fokus",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.075163,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Danmark",
+          "classNo": 5,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.0138
+        },
+        {
+          "weight": 0.25,
+          "classMajor": {
+            "da": "USA",
+            "en": "US"
+          },
+          "sharpeRatioNet": 0.249721,
+          "tickerExchange": "0P0001JGHK.CO",
+          "classMajorEng": "United States",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0061270105",
+          "instrumentName": "Danske Invest USA Restricted",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.086198,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "USA",
+          "classNo": 8,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.0035
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Europa",
+            "en": "Europe"
+          },
+          "sharpeRatioNet": 0.187777,
+          "tickerExchange": "DKIEU.CO",
+          "classMajorEng": "Europe",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0010252956",
+          "instrumentName": "Danske Invest Europa",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.074739,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Europa",
+          "classNo": 9,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.0142
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "MSCI EM",
+            "en": "Emerging Markets"
+          },
+          "sharpeRatioNet": 0.232943,
+          "tickerExchange": "DKINMAKK.CO",
+          "classMajorEng": "MSCI Emerging Markets",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060042026",
+          "instrumentName": "Danske Invest Nye Markeder",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.092412,
+          "risk": 0.225,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Emerging (EM)",
+          "classNo": 18,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.11,
+          "ccy": "DKK",
+          "costs": 0.0161
+        }
+      ]
+    },
+    {
+      "modelNo": 10,
+      "modelLabel": "Danske Bank Model Defensiv",
+      "modelKategory": "banks",
+      "modelMainIssuer": "danskeBank",
+      "objKeyfigures": {
+        "singleStocksWeight": 0,
+        "sharpeRatioNet": 0.24376151736644242,
+        "bondsWeight": 0.65,
+        "alternativesWeight": 0,
+        "expRetNet": 0.058468042035068946,
+        "risk": 0.07576274645232972,
+        "equityWeight": 0.35000000000000003,
+        "expRetGross": 0.0666500000000001,
+        "costs": 0.007730000000000015
+      },
+      "arrayHoldings": [
+        {
+          "weight": 0.35,
+          "classMajor": {
+            "da": "Lange Stat- Real Obligationer",
+            "en": "EUR Long Gov - Covered"
+          },
+          "sharpeRatioNet": 0.033307,
+          "tickerExchange": "DKIDKLOBL.CO",
+          "classMajorEng": "Long Government and Covered Bonds",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0016105380",
+          "instrumentName": "Danske Lange Obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.041998,
+          "risk": 0.06,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Lange Stat- Real Obligationer",
+          "classNo": 1,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.047,
+          "ccy": "DKK",
+          "costs": 0.0048
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (IG)",
+            "en": "EUR Investmet Grade (IG)"
+          },
+          "sharpeRatioNet": 0.057293,
+          "tickerExchange": "DKIEIGO.CO",
+          "classMajorEng": "Euro Investment Grade Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060448751",
+          "instrumentName": "DB Euro Investment Grade-Obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.044583,
+          "risk": 0.08,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (IG)",
+          "classNo": 2,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.052,
+          "ccy": "DKK",
+          "costs": 0.0071
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (HY)",
+            "en": "EUR High Yield Grade (HY)"
+          },
+          "sharpeRatioNet": 0.151321,
+          "tickerExchange": "DKIEUHYOAKKDKKH.CO",
+          "classMajorEng": "Euro High Yield Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060497378",
+          "instrumentName": "DB Euro High Yield-Obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.055132,
+          "risk": 0.1,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (HY)",
+          "classNo": 3,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.066,
+          "ccy": "DKK",
+          "costs": 0.0103
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Danmark",
+            "en": "Denmark"
+          },
+          "sharpeRatioNet": 0.190069,
+          "tickerExchange": "DKIDKF.CO",
+          "classMajorEng": "Denmark",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060244325",
+          "instrumentName": "DB Danmark Fokus",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.075163,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Danmark",
+          "classNo": 5,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.0138
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "USA",
+            "en": "US"
+          },
+          "sharpeRatioNet": 0.249721,
+          "tickerExchange": "0P0001JGHK.CO",
+          "classMajorEng": "United States",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0061270105",
+          "instrumentName": "Danske Invest USA Restricted",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.086198,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "USA",
+          "classNo": 8,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.0035
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Europa",
+            "en": "Europe"
+          },
+          "sharpeRatioNet": 0.187777,
+          "tickerExchange": "DKIEU.CO",
+          "classMajorEng": "Europe",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0010252956",
+          "instrumentName": "Danske Invest Europa",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.074739,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Europa",
+          "classNo": 9,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.0142
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "MSCI EM",
+            "en": "Emerging Markets"
+          },
+          "sharpeRatioNet": 0.232943,
+          "tickerExchange": "DKINMAKK.CO",
+          "classMajorEng": "MSCI Emerging Markets",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060042026",
+          "instrumentName": "Danske Invest Nye Markeder",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.092412,
+          "risk": 0.225,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Emerging (EM)",
+          "classNo": 18,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.11,
+          "ccy": "DKK",
+          "costs": 0.0161
+        }
+      ]
+    },
+    {
+      "modelNo": 11,
+      "modelLabel": "Nordea Model Aggressiv",
+      "modelKategory": "banks",
+      "modelMainIssuer": "nordeaBank",
+      "objKeyfigures": {
+        "singleStocksWeight": 0,
+        "sharpeRatioNet": 0.23351873906143406,
+        "bondsWeight": 0.2,
+        "alternativesWeight": 0,
+        "expRetNet": 0.07399962371394331,
+        "risk": 0.14559698228328774,
+        "equityWeight": 0.7999999999999999,
+        "expRetGross": 0.08460000000000001,
+        "costs": 0.009870000000000045
+      },
+      "arrayHoldings": [
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Lange Stat- Real Obligationer",
+            "en": "EUR Long Gov - Covered"
+          },
+          "sharpeRatioNet": 0.036764,
+          "tickerExchange": "NDILAOKL1.CO",
+          "classMajorEng": "Long Government and Covered Bonds",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060187342",
+          "instrumentName": "Nordea Invest Lange obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.042206,
+          "risk": 0.06,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Lange Stat- Real Obligationer",
+          "classNo": 1,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.047,
+          "ccy": "DKK",
+          "costs": 0.0046
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (IG)",
+            "en": "EUR Investmet Grade (IG)"
+          },
+          "sharpeRatioNet": 0.041753,
+          "tickerExchange": "NDIVOBKL1.CO",
+          "classMajorEng": "Euro Investment Grade Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0016015399",
+          "instrumentName": "Nordea Invest Virksomhedsobligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.04334,
+          "risk": 0.08,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (IG)",
+          "classNo": 2,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.052,
+          "ccy": "DKK",
+          "costs": 0.0083
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (HY)",
+            "en": "EUR High Yield Grade (HY)"
+          },
+          "sharpeRatioNet": 0.144016,
+          "tickerExchange": "NDIVOHKL1.CO",
+          "classMajorEng": "Euro High Yield Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0016067432",
+          "instrumentName": "NI Virksomhedsobligationer Højrente",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.054402,
+          "risk": 0.1,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (HY)",
+          "classNo": 3,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.066,
+          "ccy": "DKK",
+          "costs": 0.011
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Danmark",
+            "en": "Denmark"
+          },
+          "sharpeRatioNet": 0.191789,
+          "tickerExchange": "NDIDKKL1.CO",
+          "classMajorEng": "Denmark",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0010265859",
+          "instrumentName": "Nordea Invest Danmark",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.075481,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Danmark",
+          "classNo": 5,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.0135
+        },
+        {
+          "weight": 0.35,
+          "classMajor": {
+            "da": "USA",
+            "en": "US"
+          },
+          "sharpeRatioNet": 0.23513,
+          "tickerExchange": "NDINAEKL1.CO",
+          "classMajorEng": "United States",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060831451",
+          "instrumentName": "Nordea Invest North America Enhanced",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.083499,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "USA",
+          "classNo": 8,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.006
+        },
+        {
+          "weight": 0.2,
+          "classMajor": {
+            "da": "Europa",
+            "en": "Europe"
+          },
+          "sharpeRatioNet": 0.191216,
+          "tickerExchange": "NDIEUSTKL1.CO",
+          "classMajorEng": "Europe",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0010265693",
+          "instrumentName": "Nordea Invest European Stars",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.075375,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Europa",
+          "classNo": 9,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.0136
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "MSCI EM",
+            "en": "Emerging Markets"
+          },
+          "sharpeRatioNet": 0.233421,
+          "tickerExchange": "NDIESKL1.CO",
+          "classMajorEng": "MSCI Emerging Markets",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060586394",
+          "instrumentName": "Nordea Invest Emerging Stars",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.09252,
+          "risk": 0.225,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Emerging (EM)",
+          "classNo": 18,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.11,
+          "ccy": "DKK",
+          "costs": 0.016
+        }
+      ]
+    },
+    {
+      "modelNo": 12,
+      "modelLabel": "Nordea Model Balanceret",
+      "modelKategory": "banks",
+      "modelMainIssuer": "nordeaBank",
+      "objKeyfigures": {
+        "singleStocksWeight": 0,
+        "sharpeRatioNet": 0.23956164955220371,
+        "bondsWeight": 0.4,
+        "alternativesWeight": 0,
+        "expRetNet": 0.06723205262845022,
+        "risk": 0.11367450791624303,
+        "equityWeight": 0.6,
+        "expRetGross": 0.07719999999999994,
+        "costs": 0.009339999999999904
+      },
+      "arrayHoldings": [
+        {
+          "weight": 0.2,
+          "classMajor": {
+            "da": "Lange Stat- Real Obligationer",
+            "en": "EUR Long Gov - Covered"
+          },
+          "sharpeRatioNet": 0.036764,
+          "tickerExchange": "NDILAOKL1.CO",
+          "classMajorEng": "Long Government and Covered Bonds",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060187342",
+          "instrumentName": "Nordea Invest Lange obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.042206,
+          "risk": 0.06,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Lange Stat- Real Obligationer",
+          "classNo": 1,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.047,
+          "ccy": "DKK",
+          "costs": 0.0046
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (IG)",
+            "en": "EUR Investmet Grade (IG)"
+          },
+          "sharpeRatioNet": 0.041753,
+          "tickerExchange": "NDIVOBKL1.CO",
+          "classMajorEng": "Euro Investment Grade Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0016015399",
+          "instrumentName": "Nordea Invest Virksomhedsobligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.04334,
+          "risk": 0.08,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (IG)",
+          "classNo": 2,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.052,
+          "ccy": "DKK",
+          "costs": 0.0083
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (HY)",
+            "en": "EUR High Yield Grade (HY)"
+          },
+          "sharpeRatioNet": 0.144016,
+          "tickerExchange": "NDIVOHKL1.CO",
+          "classMajorEng": "Euro High Yield Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0016067432",
+          "instrumentName": "NI Virksomhedsobligationer Højrente",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.054402,
+          "risk": 0.1,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (HY)",
+          "classNo": 3,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.066,
+          "ccy": "DKK",
+          "costs": 0.011
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Danmark",
+            "en": "Denmark"
+          },
+          "sharpeRatioNet": 0.191789,
+          "tickerExchange": "NDIDKKL1.CO",
+          "classMajorEng": "Denmark",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0010265859",
+          "instrumentName": "Nordea Invest Danmark",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.075481,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Danmark",
+          "classNo": 5,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.0135
+        },
+        {
+          "weight": 0.25,
+          "classMajor": {
+            "da": "USA",
+            "en": "US"
+          },
+          "sharpeRatioNet": 0.23513,
+          "tickerExchange": "NDINAEKL1.CO",
+          "classMajorEng": "United States",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060831451",
+          "instrumentName": "Nordea Invest North America Enhanced",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.083499,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "USA",
+          "classNo": 8,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.006
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Europa",
+            "en": "Europe"
+          },
+          "sharpeRatioNet": 0.191216,
+          "tickerExchange": "NDIEUSTKL1.CO",
+          "classMajorEng": "Europe",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0010265693",
+          "instrumentName": "Nordea Invest European Stars",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.075375,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Europa",
+          "classNo": 9,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.0136
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "MSCI EM",
+            "en": "Emerging Markets"
+          },
+          "sharpeRatioNet": 0.233421,
+          "tickerExchange": "NDIESKL1.CO",
+          "classMajorEng": "MSCI Emerging Markets",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060586394",
+          "instrumentName": "Nordea Invest Emerging Stars",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.09252,
+          "risk": 0.225,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Emerging (EM)",
+          "classNo": 18,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.11,
+          "ccy": "DKK",
+          "costs": 0.016
+        }
+      ]
+    },
+    {
+      "modelNo": 13,
+      "modelLabel": "Nordea Model Defensiv",
+      "modelKategory": "banks",
+      "modelMainIssuer": "nordeaBank",
+      "objKeyfigures": {
+        "singleStocksWeight": 0,
+        "sharpeRatioNet": 0.23669462798800944,
+        "bondsWeight": 0.65,
+        "alternativesWeight": 0,
+        "expRetNet": 0.057932635086884066,
+        "risk": 0.07576274645232972,
+        "equityWeight": 0.35000000000000003,
+        "expRetGross": 0.0666500000000001,
+        "costs": 0.008240000000000025
+      },
+      "arrayHoldings": [
+        {
+          "weight": 0.35,
+          "classMajor": {
+            "da": "Lange Stat- Real Obligationer",
+            "en": "EUR Long Gov - Covered"
+          },
+          "sharpeRatioNet": 0.036764,
+          "tickerExchange": "NDILAOKL1.CO",
+          "classMajorEng": "Long Government and Covered Bonds",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060187342",
+          "instrumentName": "Nordea Invest Lange obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.042206,
+          "risk": 0.06,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Lange Stat- Real Obligationer",
+          "classNo": 1,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.047,
+          "ccy": "DKK",
+          "costs": 0.0046
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (IG)",
+            "en": "EUR Investmet Grade (IG)"
+          },
+          "sharpeRatioNet": 0.041753,
+          "tickerExchange": "NDIVOBKL1.CO",
+          "classMajorEng": "Euro Investment Grade Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0016015399",
+          "instrumentName": "Nordea Invest Virksomhedsobligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.04334,
+          "risk": 0.08,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (IG)",
+          "classNo": 2,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.052,
+          "ccy": "DKK",
+          "costs": 0.0083
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (HY)",
+            "en": "EUR High Yield Grade (HY)"
+          },
+          "sharpeRatioNet": 0.144016,
+          "tickerExchange": "NDIVOHKL1.CO",
+          "classMajorEng": "Euro High Yield Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0016067432",
+          "instrumentName": "NI Virksomhedsobligationer Højrente",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.054402,
+          "risk": 0.1,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (HY)",
+          "classNo": 3,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.066,
+          "ccy": "DKK",
+          "costs": 0.011
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Danmark",
+            "en": "Denmark"
+          },
+          "sharpeRatioNet": 0.191789,
+          "tickerExchange": "NDIDKKL1.CO",
+          "classMajorEng": "Denmark",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0010265859",
+          "instrumentName": "Nordea Invest Danmark",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.075481,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Danmark",
+          "classNo": 5,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.0135
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "USA",
+            "en": "US"
+          },
+          "sharpeRatioNet": 0.23513,
+          "tickerExchange": "NDINAEKL1.CO",
+          "classMajorEng": "United States",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060831451",
+          "instrumentName": "Nordea Invest North America Enhanced",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.083499,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "USA",
+          "classNo": 8,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.006
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Europa",
+            "en": "Europe"
+          },
+          "sharpeRatioNet": 0.191216,
+          "tickerExchange": "NDIEUSTKL1.CO",
+          "classMajorEng": "Europe",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0010265693",
+          "instrumentName": "Nordea Invest European Stars",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.075375,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Europa",
+          "classNo": 9,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.0136
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "MSCI EM",
+            "en": "Emerging Markets"
+          },
+          "sharpeRatioNet": 0.233421,
+          "tickerExchange": "NDIESKL1.CO",
+          "classMajorEng": "MSCI Emerging Markets",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060586394",
+          "instrumentName": "Nordea Invest Emerging Stars",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.09252,
+          "risk": 0.225,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Emerging (EM)",
+          "classNo": 18,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.11,
+          "ccy": "DKK",
+          "costs": 0.016
+        }
+      ]
+    },
+    {
+      "modelNo": 14,
+      "modelLabel": "Jyske Model Aggressiv",
+      "modelKategory": "banks",
+      "modelMainIssuer": "jyskeBank",
+      "objKeyfigures": {
+        "singleStocksWeight": 0,
+        "sharpeRatioNet": 0.26097564760840236,
+        "bondsWeight": 0.2,
+        "alternativesWeight": 0,
+        "expRetNet": 0.0779972667412101,
+        "risk": 0.14559698228328774,
+        "equityWeight": 0.7999999999999999,
+        "expRetGross": 0.08460000000000001,
+        "costs": 0.006124999999999936
+      },
+      "arrayHoldings": [
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Lange Stat- Real Obligationer",
+            "en": "EUR Long Gov - Covered"
+          },
+          "sharpeRatioNet": 0.038493,
+          "tickerExchange": "JYILOB.CO",
+          "classMajorEng": "Long Government and Covered Bonds",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0015855332",
+          "instrumentName": "Jyske Invest Lange Obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.04231,
+          "risk": 0.06,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Lange Stat- Real Obligationer",
+          "classNo": 1,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.047,
+          "ccy": "DKK",
+          "costs": 0.0045
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (IG)",
+            "en": "EUR Investmet Grade (IG)"
+          },
+          "sharpeRatioNet": 0.123752,
+          "tickerExchange": "EUN5.XETRA",
+          "classMajorEng": "Euro Investment Grade Credit",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B3F81R35",
+          "instrumentName": "iShares Core EUR Corporate Bond",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.0499,
+          "risk": 0.08,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (IG)",
+          "classNo": 2,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.052,
+          "ccy": "EUR",
+          "costs": 0.002
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (HY)",
+            "en": "EUR High Yield Grade (HY)"
+          },
+          "sharpeRatioNet": 0.138804,
+          "tickerExchange": "JYIVIRK.CO",
+          "classMajorEng": "Euro High Yield Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0016112915",
+          "instrumentName": "Jyske Invest Virksomhedsobligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.05388,
+          "risk": 0.1,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (HY)",
+          "classNo": 3,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.066,
+          "ccy": "DKK",
+          "costs": 0.0115
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Danmark",
+            "en": "Denmark"
+          },
+          "sharpeRatioNet": 0.197531,
+          "tickerExchange": "JYIDKAKT.CO",
+          "classMajorEng": "Denmark",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0010232768",
+          "instrumentName": "Jyske Invest Danske Aktier",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.076543,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Danmark",
+          "classNo": 5,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.0125
+        },
+        {
+          "weight": 0.35,
+          "classMajor": {
+            "da": "USA",
+            "en": "US"
+          },
+          "sharpeRatioNet": 0.250891,
+          "tickerExchange": "SXR4.XETRA",
+          "classMajorEng": "United States",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B52SFT06",
+          "instrumentName": "iShares MSCI USA",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.086415,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "USA",
+          "classNo": 8,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "EUR",
+          "costs": 0.0033
+        },
+        {
+          "weight": 0.2,
+          "classMajor": {
+            "da": "Europa",
+            "en": "Europe"
+          },
+          "sharpeRatioNet": 0.263796,
+          "tickerExchange": "EXW1.XETRA",
+          "classMajorEng": "Europe",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "DE0005933956",
+          "instrumentName": "iShares EURO STOXX 50",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.088802,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Europa",
+          "classNo": 9,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "EUR",
+          "costs": 0.0011
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "MSCI EM",
+            "en": "Emerging Markets"
+          },
+          "sharpeRatioNet": 0.226263,
+          "tickerExchange": "JYINYAKL.CO",
+          "classMajorEng": "MSCI Emerging Markets",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0010149863",
+          "instrumentName": "Jyske Invest Nye Aktiemarkeder",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.090909,
+          "risk": 0.225,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Emerging (EM)",
+          "classNo": 18,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.11,
+          "ccy": "DKK",
+          "costs": 0.0175
+        }
+      ]
+    },
+    {
+      "modelNo": 15,
+      "modelLabel": "Jyske Model Balanceret",
+      "modelKategory": "banks",
+      "modelMainIssuer": "jyskeBank",
+      "objKeyfigures": {
+        "singleStocksWeight": 0,
+        "sharpeRatioNet": 0.268485485772289,
+        "bondsWeight": 0.4,
+        "alternativesWeight": 0,
+        "expRetNet": 0.07051995547781842,
+        "risk": 0.11367450791624303,
+        "equityWeight": 0.6,
+        "expRetGross": 0.07719999999999994,
+        "costs": 0.006240000000000023
+      },
+      "arrayHoldings": [
+        {
+          "weight": 0.2,
+          "classMajor": {
+            "da": "Lange Stat- Real Obligationer",
+            "en": "EUR Long Gov - Covered"
+          },
+          "sharpeRatioNet": 0.038493,
+          "tickerExchange": "JYILOB.CO",
+          "classMajorEng": "Long Government and Covered Bonds",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0015855332",
+          "instrumentName": "Jyske Invest Lange Obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.04231,
+          "risk": 0.06,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Lange Stat- Real Obligationer",
+          "classNo": 1,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.047,
+          "ccy": "DKK",
+          "costs": 0.0045
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (IG)",
+            "en": "EUR Investmet Grade (IG)"
+          },
+          "sharpeRatioNet": 0.123752,
+          "tickerExchange": "EUN5.XETRA",
+          "classMajorEng": "Euro Investment Grade Credit",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B3F81R35",
+          "instrumentName": "iShares Core EUR Corporate Bond",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.0499,
+          "risk": 0.08,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (IG)",
+          "classNo": 2,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.052,
+          "ccy": "EUR",
+          "costs": 0.002
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (HY)",
+            "en": "EUR High Yield Grade (HY)"
+          },
+          "sharpeRatioNet": 0.138804,
+          "tickerExchange": "JYIVIRK.CO",
+          "classMajorEng": "Euro High Yield Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0016112915",
+          "instrumentName": "Jyske Invest Virksomhedsobligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.05388,
+          "risk": 0.1,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (HY)",
+          "classNo": 3,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.066,
+          "ccy": "DKK",
+          "costs": 0.0115
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Danmark",
+            "en": "Denmark"
+          },
+          "sharpeRatioNet": 0.197531,
+          "tickerExchange": "JYIDKAKT.CO",
+          "classMajorEng": "Denmark",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0010232768",
+          "instrumentName": "Jyske Invest Danske Aktier",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.076543,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Danmark",
+          "classNo": 5,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.0125
+        },
+        {
+          "weight": 0.25,
+          "classMajor": {
+            "da": "USA",
+            "en": "US"
+          },
+          "sharpeRatioNet": 0.250891,
+          "tickerExchange": "SXR4.XETRA",
+          "classMajorEng": "United States",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B52SFT06",
+          "instrumentName": "iShares MSCI USA",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.086415,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "USA",
+          "classNo": 8,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "EUR",
+          "costs": 0.0033
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Europa",
+            "en": "Europe"
+          },
+          "sharpeRatioNet": 0.263796,
+          "tickerExchange": "EXW1.XETRA",
+          "classMajorEng": "Europe",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "DE0005933956",
+          "instrumentName": "iShares EURO STOXX 50",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.088802,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Europa",
+          "classNo": 9,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "EUR",
+          "costs": 0.0011
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "MSCI EM",
+            "en": "Emerging Markets"
+          },
+          "sharpeRatioNet": 0.226263,
+          "tickerExchange": "JYINYAKL.CO",
+          "classMajorEng": "MSCI Emerging Markets",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0010149863",
+          "instrumentName": "Jyske Invest Nye Aktiemarkeder",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.090909,
+          "risk": 0.225,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Emerging (EM)",
+          "classNo": 18,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.11,
+          "ccy": "DKK",
+          "costs": 0.0175
+        }
+      ]
+    },
+    {
+      "modelNo": 16,
+      "modelLabel": "Jyske Model Defensiv",
+      "modelKategory": "banks",
+      "modelMainIssuer": "jyskeBank",
+      "objKeyfigures": {
+        "singleStocksWeight": 0,
+        "sharpeRatioNet": 0.2718919530494862,
+        "bondsWeight": 0.65,
+        "alternativesWeight": 0,
+        "expRetNet": 0.06059928110131696,
+        "risk": 0.07576274645232972,
+        "equityWeight": 0.35000000000000003,
+        "expRetGross": 0.0666500000000001,
+        "costs": 0.005705000000000071
+      },
+      "arrayHoldings": [
+        {
+          "weight": 0.35,
+          "classMajor": {
+            "da": "Lange Stat- Real Obligationer",
+            "en": "EUR Long Gov - Covered"
+          },
+          "sharpeRatioNet": 0.038493,
+          "tickerExchange": "JYILOB.CO",
+          "classMajorEng": "Long Government and Covered Bonds",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0015855332",
+          "instrumentName": "Jyske Invest Lange Obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.04231,
+          "risk": 0.06,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Lange Stat- Real Obligationer",
+          "classNo": 1,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.047,
+          "ccy": "DKK",
+          "costs": 0.0045
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (IG)",
+            "en": "EUR Investmet Grade (IG)"
+          },
+          "sharpeRatioNet": 0.123752,
+          "tickerExchange": "EUN5.XETRA",
+          "classMajorEng": "Euro Investment Grade Credit",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B3F81R35",
+          "instrumentName": "iShares Core EUR Corporate Bond",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.0499,
+          "risk": 0.08,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (IG)",
+          "classNo": 2,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.052,
+          "ccy": "EUR",
+          "costs": 0.002
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (HY)",
+            "en": "EUR High Yield Grade (HY)"
+          },
+          "sharpeRatioNet": 0.138804,
+          "tickerExchange": "JYIVIRK.CO",
+          "classMajorEng": "Euro High Yield Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0016112915",
+          "instrumentName": "Jyske Invest Virksomhedsobligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.05388,
+          "risk": 0.1,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (HY)",
+          "classNo": 3,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.066,
+          "ccy": "DKK",
+          "costs": 0.0115
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Danmark",
+            "en": "Denmark"
+          },
+          "sharpeRatioNet": 0.197531,
+          "tickerExchange": "JYIDKAKT.CO",
+          "classMajorEng": "Denmark",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0010232768",
+          "instrumentName": "Jyske Invest Danske Aktier",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.076543,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Danmark",
+          "classNo": 5,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.0125
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "USA",
+            "en": "US"
+          },
+          "sharpeRatioNet": 0.250891,
+          "tickerExchange": "SXR4.XETRA",
+          "classMajorEng": "United States",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B52SFT06",
+          "instrumentName": "iShares MSCI USA",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.086415,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "USA",
+          "classNo": 8,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "EUR",
+          "costs": 0.0033
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Europa",
+            "en": "Europe"
+          },
+          "sharpeRatioNet": 0.263796,
+          "tickerExchange": "EXW1.XETRA",
+          "classMajorEng": "Europe",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "DE0005933956",
+          "instrumentName": "iShares EURO STOXX 50",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.088802,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Europa",
+          "classNo": 9,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "EUR",
+          "costs": 0.0011
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "MSCI EM",
+            "en": "Emerging Markets"
+          },
+          "sharpeRatioNet": 0.226263,
+          "tickerExchange": "JYINYAKL.CO",
+          "classMajorEng": "MSCI Emerging Markets",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0010149863",
+          "instrumentName": "Jyske Invest Nye Aktiemarkeder",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.090909,
+          "risk": 0.225,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Emerging (EM)",
+          "classNo": 18,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.11,
+          "ccy": "DKK",
+          "costs": 0.0175
+        }
+      ]
+    },
+    {
+      "modelNo": 17,
+      "modelLabel": "Sydbank Model Aggressiv",
+      "modelKategory": "banks",
+      "modelMainIssuer": "sydBank",
+      "objKeyfigures": {
+        "singleStocksWeight": 0,
+        "sharpeRatioNet": 0.2312185613341435,
+        "bondsWeight": 0.2,
+        "alternativesWeight": 0,
+        "expRetNet": 0.07366472477813457,
+        "risk": 0.14559698228328774,
+        "equityWeight": 0.7999999999999999,
+        "expRetGross": 0.08460000000000001,
+        "costs": 0.01018500000000011
+      },
+      "arrayHoldings": [
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Lange Stat- Real Obligationer",
+            "en": "EUR Long Gov - Covered"
+          },
+          "sharpeRatioNet": 0.099234,
+          "tickerExchange": "0P0001UOUI.CO",
+          "classMajorEng": "Long Government and Covered Bonds",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0063181698",
+          "instrumentName": "Nykredit Invest Lange Obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.045954,
+          "risk": 0.06,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Lange Stat- Real Obligationer",
+          "classNo": 1,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.047,
+          "ccy": "DKK",
+          "costs": 0.001
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (IG)",
+            "en": "EUR Investmet Grade (IG)"
+          },
+          "sharpeRatioNet": 0.057293,
+          "tickerExchange": "SYIVIGADKK.CO",
+          "classMajorEng": "Euro Investment Grade Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060409266",
+          "instrumentName": "Sydinvest Virksomhedsobligationer IG",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.044583,
+          "risk": 0.08,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (IG)",
+          "classNo": 2,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.052,
+          "ccy": "DKK",
+          "costs": 0.0071
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (HY)",
+            "en": "EUR High Yield Grade (HY)"
+          },
+          "sharpeRatioNet": 0.148189,
+          "tickerExchange": "SYIVOHYADKKAK.CO",
+          "classMajorEng": "Euro High Yield Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060089415",
+          "instrumentName": "Sydinvest Virksomhedsobligationer HY",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.054819,
+          "risk": 0.1,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (HY)",
+          "classNo": 3,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.066,
+          "ccy": "DKK",
+          "costs": 0.0106
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Danmark",
+            "en": "Denmark"
+          },
+          "sharpeRatioNet": 0.252647,
+          "tickerExchange": "SYIIDKADKK.CO",
+          "classMajorEng": "Denmark",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0061541232",
+          "instrumentName": "Sydinvest Indeks Danmark",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.08674,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Danmark",
+          "classNo": 5,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.003
+        },
+        {
+          "weight": 0.35,
+          "classMajor": {
+            "da": "USA",
+            "en": "US"
+          },
+          "sharpeRatioNet": 0.195807,
+          "tickerExchange": "SYIUSAVADKK.CO",
+          "classMajorEng": "United States",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0010270776",
+          "instrumentName": "Sydinvest USA Value",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.076224,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "USA",
+          "classNo": 8,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.0128
+        },
+        {
+          "weight": 0.2,
+          "classMajor": {
+            "da": "Europa",
+            "en": "Europe"
+          },
+          "sharpeRatioNet": 0.189496,
+          "tickerExchange": "SYIEUVADKK.CO",
+          "classMajorEng": "Europe",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0015323406",
+          "instrumentName": "Sydinvest Europa Value",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.075057,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Europa",
+          "classNo": 9,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.0139
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "MSCI EM",
+            "en": "Emerging Markets"
+          },
+          "sharpeRatioNet": 0.238684,
+          "tickerExchange": "SYIGEMAADKKA.CO",
+          "classMajorEng": "MSCI Emerging Markets",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060499747",
+          "instrumentName": "Sydinvest Globale Emerging Aktier",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.093704,
+          "risk": 0.225,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Emerging (EM)",
+          "classNo": 18,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.11,
+          "ccy": "DKK",
+          "costs": 0.0149
+        }
+      ]
+    },
+    {
+      "modelNo": 18,
+      "modelLabel": "Sydbank  Model Balanceret",
+      "modelKategory": "banks",
+      "modelMainIssuer": "sydBank",
+      "objKeyfigures": {
+        "singleStocksWeight": 0,
+        "sharpeRatioNet": 0.24230642776956338,
+        "bondsWeight": 0.4,
+        "alternativesWeight": 0,
+        "expRetNet": 0.0675440639416478,
+        "risk": 0.11367450791624303,
+        "equityWeight": 0.6,
+        "expRetGross": 0.07719999999999994,
+        "costs": 0.00904499999999997
+      },
+      "arrayHoldings": [
+        {
+          "weight": 0.2,
+          "classMajor": {
+            "da": "Lange Stat- Real Obligationer",
+            "en": "EUR Long Gov - Covered"
+          },
+          "sharpeRatioNet": 0.099234,
+          "tickerExchange": "0P0001UOUI.CO",
+          "classMajorEng": "Long Government and Covered Bonds",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0063181698",
+          "instrumentName": "Nykredit Invest Lange Obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.045954,
+          "risk": 0.06,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Lange Stat- Real Obligationer",
+          "classNo": 1,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.047,
+          "ccy": "DKK",
+          "costs": 0.001
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (IG)",
+            "en": "EUR Investmet Grade (IG)"
+          },
+          "sharpeRatioNet": 0.057293,
+          "tickerExchange": "SYIVIGADKK.CO",
+          "classMajorEng": "Euro Investment Grade Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060409266",
+          "instrumentName": "Sydinvest Virksomhedsobligationer IG",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.044583,
+          "risk": 0.08,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (IG)",
+          "classNo": 2,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.052,
+          "ccy": "DKK",
+          "costs": 0.0071
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (HY)",
+            "en": "EUR High Yield Grade (HY)"
+          },
+          "sharpeRatioNet": 0.148189,
+          "tickerExchange": "SYIVOHYADKKAK.CO",
+          "classMajorEng": "Euro High Yield Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060089415",
+          "instrumentName": "Sydinvest Virksomhedsobligationer HY",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.054819,
+          "risk": 0.1,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (HY)",
+          "classNo": 3,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.066,
+          "ccy": "DKK",
+          "costs": 0.0106
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Danmark",
+            "en": "Denmark"
+          },
+          "sharpeRatioNet": 0.252647,
+          "tickerExchange": "SYIIDKADKK.CO",
+          "classMajorEng": "Denmark",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0061541232",
+          "instrumentName": "Sydinvest Indeks Danmark",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.08674,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Danmark",
+          "classNo": 5,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.003
+        },
+        {
+          "weight": 0.25,
+          "classMajor": {
+            "da": "USA",
+            "en": "US"
+          },
+          "sharpeRatioNet": 0.195807,
+          "tickerExchange": "SYIUSAVADKK.CO",
+          "classMajorEng": "United States",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0010270776",
+          "instrumentName": "Sydinvest USA Value",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.076224,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "USA",
+          "classNo": 8,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.0128
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Europa",
+            "en": "Europe"
+          },
+          "sharpeRatioNet": 0.189496,
+          "tickerExchange": "SYIEUVADKK.CO",
+          "classMajorEng": "Europe",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0015323406",
+          "instrumentName": "Sydinvest Europa Value",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.075057,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Europa",
+          "classNo": 9,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.0139
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "MSCI EM",
+            "en": "Emerging Markets"
+          },
+          "sharpeRatioNet": 0.238684,
+          "tickerExchange": "SYIGEMAADKKA.CO",
+          "classMajorEng": "MSCI Emerging Markets",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060499747",
+          "instrumentName": "Sydinvest Globale Emerging Aktier",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.093704,
+          "risk": 0.225,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Emerging (EM)",
+          "classNo": 18,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.11,
+          "ccy": "DKK",
+          "costs": 0.0149
+        }
+      ]
+    },
+    {
+      "modelNo": 19,
+      "modelLabel": "Sydbank Model Defensiv",
+      "modelKategory": "banks",
+      "modelMainIssuer": "sydBank",
+      "objKeyfigures": {
+        "singleStocksWeight": 0,
+        "sharpeRatioNet": 0.2509743416959578,
+        "bondsWeight": 0.65,
+        "alternativesWeight": 0,
+        "expRetNet": 0.05901450541595121,
+        "risk": 0.07576274645232972,
+        "equityWeight": 0.35000000000000003,
+        "expRetGross": 0.0666500000000001,
+        "costs": 0.007209999999999939
+      },
+      "arrayHoldings": [
+        {
+          "weight": 0.35,
+          "classMajor": {
+            "da": "Lange Stat- Real Obligationer",
+            "en": "EUR Long Gov - Covered"
+          },
+          "sharpeRatioNet": 0.099234,
+          "tickerExchange": "0P0001UOUI.CO",
+          "classMajorEng": "Long Government and Covered Bonds",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0063181698",
+          "instrumentName": "Nykredit Invest Lange Obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.045954,
+          "risk": 0.06,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Lange Stat- Real Obligationer",
+          "classNo": 1,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.047,
+          "ccy": "DKK",
+          "costs": 0.001
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (IG)",
+            "en": "EUR Investmet Grade (IG)"
+          },
+          "sharpeRatioNet": 0.057293,
+          "tickerExchange": "SYIVIGADKK.CO",
+          "classMajorEng": "Euro Investment Grade Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060409266",
+          "instrumentName": "Sydinvest Virksomhedsobligationer IG",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.044583,
+          "risk": 0.08,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (IG)",
+          "classNo": 2,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.052,
+          "ccy": "DKK",
+          "costs": 0.0071
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (HY)",
+            "en": "EUR High Yield Grade (HY)"
+          },
+          "sharpeRatioNet": 0.148189,
+          "tickerExchange": "SYIVOHYADKKAK.CO",
+          "classMajorEng": "Euro High Yield Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060089415",
+          "instrumentName": "Sydinvest Virksomhedsobligationer HY",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.054819,
+          "risk": 0.1,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (HY)",
+          "classNo": 3,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.066,
+          "ccy": "DKK",
+          "costs": 0.0106
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Danmark",
+            "en": "Denmark"
+          },
+          "sharpeRatioNet": 0.252647,
+          "tickerExchange": "SYIIDKADKK.CO",
+          "classMajorEng": "Denmark",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0061541232",
+          "instrumentName": "Sydinvest Indeks Danmark",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.08674,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Danmark",
+          "classNo": 5,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.003
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "USA",
+            "en": "US"
+          },
+          "sharpeRatioNet": 0.195807,
+          "tickerExchange": "SYIUSAVADKK.CO",
+          "classMajorEng": "United States",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0010270776",
+          "instrumentName": "Sydinvest USA Value",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.076224,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "USA",
+          "classNo": 8,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.0128
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Europa",
+            "en": "Europe"
+          },
+          "sharpeRatioNet": 0.189496,
+          "tickerExchange": "SYIEUVADKK.CO",
+          "classMajorEng": "Europe",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0015323406",
+          "instrumentName": "Sydinvest Europa Value",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.075057,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Europa",
+          "classNo": 9,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.0139
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "MSCI EM",
+            "en": "Emerging Markets"
+          },
+          "sharpeRatioNet": 0.238684,
+          "tickerExchange": "SYIGEMAADKKA.CO",
+          "classMajorEng": "MSCI Emerging Markets",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060499747",
+          "instrumentName": "Sydinvest Globale Emerging Aktier",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.093704,
+          "risk": 0.225,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Emerging (EM)",
+          "classNo": 18,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.11,
+          "ccy": "DKK",
+          "costs": 0.0149
+        }
+      ]
+    },
+    {
+      "modelNo": 20,
+      "modelLabel": "Formuepleje Model Aggressiv",
+      "modelKategory": "banks",
+      "modelMainIssuer": "formueplejeBank",
+      "objKeyfigures": {
+        "singleStocksWeight": 0,
+        "sharpeRatioNet": 0.28393281216015004,
+        "bondsWeight": 0.2,
+        "alternativesWeight": 0,
+        "expRetNet": 0.08133976062172543,
+        "risk": 0.14559698228328774,
+        "equityWeight": 0.7999999999999999,
+        "expRetGross": 0.08460000000000001,
+        "costs": 0.00301499999999999
+      },
+      "arrayHoldings": [
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Lange Stat- Real Obligationer",
+            "en": "EUR Long Gov - Covered"
+          },
+          "sharpeRatioNet": 0.038493,
+          "tickerExchange": "FPILOB.CO",
+          "classMajorEng": "Long Government and Covered Bonds",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0063407333",
+          "instrumentName": "Formuepleje Lange obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.04231,
+          "risk": 0.06,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Lange Stat- Real Obligationer",
+          "classNo": 1,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.047,
+          "ccy": "DKK",
+          "costs": 0.0045
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (IG)",
+            "en": "EUR Investmet Grade (IG)"
+          },
+          "sharpeRatioNet": 0.123752,
+          "tickerExchange": "EUN5.XETRA",
+          "classMajorEng": "Euro Investment Grade Credit",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B3F81R35",
+          "instrumentName": "iShares Core EUR Corporate Bond",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.0499,
+          "risk": 0.08,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (IG)",
+          "classNo": 2,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.052,
+          "ccy": "EUR",
+          "costs": 0.002
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (HY)",
+            "en": "EUR High Yield Grade (HY)"
+          },
+          "sharpeRatioNet": 0.131516,
+          "tickerExchange": "FPIGHY.CO",
+          "classMajorEng": "Euro High Yield Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0016108640",
+          "instrumentName": "Formuepleje High Yield",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.053152,
+          "risk": 0.1,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (HY)",
+          "classNo": 3,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.066,
+          "ccy": "DKK",
+          "costs": 0.0122
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Danmark",
+            "en": "Denmark"
+          },
+          "sharpeRatioNet": 0.25851,
+          "tickerExchange": "XACTC25.CO",
+          "classMajorEng": "Denmark",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "SE0011452127",
+          "instrumentName": "XACT OMXC25 ESG",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.087824,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Danmark",
+          "classNo": 5,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.002
+        },
+        {
+          "weight": 0.35,
+          "classMajor": {
+            "da": "USA",
+            "en": "US"
+          },
+          "sharpeRatioNet": 0.250891,
+          "tickerExchange": "SXR4.XETRA",
+          "classMajorEng": "United States",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B52SFT06",
+          "instrumentName": "iShares MSCI USA",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.086415,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "USA",
+          "classNo": 8,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "EUR",
+          "costs": 0.0033
+        },
+        {
+          "weight": 0.2,
+          "classMajor": {
+            "da": "Europa",
+            "en": "Europe"
+          },
+          "sharpeRatioNet": 0.263796,
+          "tickerExchange": "EXW1.XETRA",
+          "classMajorEng": "Europe",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "DE0005933956",
+          "instrumentName": "iShares EURO STOXX 50",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.088802,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Europa",
+          "classNo": 9,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "EUR",
+          "costs": 0.0011
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "MSCI EM",
+            "en": "Emerging Markets"
+          },
+          "sharpeRatioNet": 0.302247,
+          "tickerExchange": "IS3N.XETRA",
+          "classMajorEng": "MSCI Emerging Markets",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00BKM4GZ66",
+          "instrumentName": "iShares Core MSCI Emerging Markets",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.108006,
+          "risk": 0.225,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Emerging (EM)",
+          "classNo": 18,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.11,
+          "ccy": "EUR",
+          "costs": 0.0018
+        }
+      ]
+    },
+    {
+      "modelNo": 21,
+      "modelLabel": "Formuepleje Model Balanceret",
+      "modelKategory": "banks",
+      "modelMainIssuer": "formueplejeBank",
+      "objKeyfigures": {
+        "singleStocksWeight": 0,
+        "sharpeRatioNet": 0.2924116052843437,
+        "bondsWeight": 0.4,
+        "alternativesWeight": 0,
+        "expRetNet": 0.07323974533969646,
+        "risk": 0.11367450791624303,
+        "equityWeight": 0.6,
+        "expRetGross": 0.07719999999999994,
+        "costs": 0.003689999999999971
+      },
+      "arrayHoldings": [
+        {
+          "weight": 0.2,
+          "classMajor": {
+            "da": "Lange Stat- Real Obligationer",
+            "en": "EUR Long Gov - Covered"
+          },
+          "sharpeRatioNet": 0.038493,
+          "tickerExchange": "FPILOB.CO",
+          "classMajorEng": "Long Government and Covered Bonds",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0063407333",
+          "instrumentName": "Formuepleje Lange obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.04231,
+          "risk": 0.06,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Lange Stat- Real Obligationer",
+          "classNo": 1,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.047,
+          "ccy": "DKK",
+          "costs": 0.0045
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (IG)",
+            "en": "EUR Investmet Grade (IG)"
+          },
+          "sharpeRatioNet": 0.123752,
+          "tickerExchange": "EUN5.XETRA",
+          "classMajorEng": "Euro Investment Grade Credit",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B3F81R35",
+          "instrumentName": "iShares Core EUR Corporate Bond",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.0499,
+          "risk": 0.08,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (IG)",
+          "classNo": 2,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.052,
+          "ccy": "EUR",
+          "costs": 0.002
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (HY)",
+            "en": "EUR High Yield Grade (HY)"
+          },
+          "sharpeRatioNet": 0.131516,
+          "tickerExchange": "FPIGHY.CO",
+          "classMajorEng": "Euro High Yield Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0016108640",
+          "instrumentName": "Formuepleje High Yield",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.053152,
+          "risk": 0.1,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (HY)",
+          "classNo": 3,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.066,
+          "ccy": "DKK",
+          "costs": 0.0122
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Danmark",
+            "en": "Denmark"
+          },
+          "sharpeRatioNet": 0.25851,
+          "tickerExchange": "XACTC25.CO",
+          "classMajorEng": "Denmark",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "SE0011452127",
+          "instrumentName": "XACT OMXC25 ESG",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.087824,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Danmark",
+          "classNo": 5,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.002
+        },
+        {
+          "weight": 0.25,
+          "classMajor": {
+            "da": "USA",
+            "en": "US"
+          },
+          "sharpeRatioNet": 0.250891,
+          "tickerExchange": "SXR4.XETRA",
+          "classMajorEng": "United States",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B52SFT06",
+          "instrumentName": "iShares MSCI USA",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.086415,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "USA",
+          "classNo": 8,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "EUR",
+          "costs": 0.0033
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Europa",
+            "en": "Europe"
+          },
+          "sharpeRatioNet": 0.263796,
+          "tickerExchange": "EXW1.XETRA",
+          "classMajorEng": "Europe",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "DE0005933956",
+          "instrumentName": "iShares EURO STOXX 50",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.088802,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Europa",
+          "classNo": 9,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "EUR",
+          "costs": 0.0011
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "MSCI EM",
+            "en": "Emerging Markets"
+          },
+          "sharpeRatioNet": 0.302247,
+          "tickerExchange": "IS3N.XETRA",
+          "classMajorEng": "MSCI Emerging Markets",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00BKM4GZ66",
+          "instrumentName": "iShares Core MSCI Emerging Markets",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.108006,
+          "risk": 0.225,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Emerging (EM)",
+          "classNo": 18,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.11,
+          "ccy": "EUR",
+          "costs": 0.0018
+        }
+      ]
+    },
+    {
+      "modelNo": 22,
+      "modelLabel": "Formuepleje Model Defensiv",
+      "modelKategory": "banks",
+      "modelMainIssuer": "formueplejeBank",
+      "objKeyfigures": {
+        "singleStocksWeight": 0,
+        "sharpeRatioNet": 0.2886851245976705,
+        "bondsWeight": 0.65,
+        "alternativesWeight": 0,
+        "expRetNet": 0.06187157789945252,
+        "risk": 0.07576274645232972,
+        "equityWeight": 0.35000000000000003,
+        "expRetGross": 0.0666500000000001,
+        "costs": 0.0044999999999999485
+      },
+      "arrayHoldings": [
+        {
+          "weight": 0.35,
+          "classMajor": {
+            "da": "Lange Stat- Real Obligationer",
+            "en": "EUR Long Gov - Covered"
+          },
+          "sharpeRatioNet": 0.038493,
+          "tickerExchange": "FPILOB.CO",
+          "classMajorEng": "Long Government and Covered Bonds",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0063407333",
+          "instrumentName": "Formuepleje Lange obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.04231,
+          "risk": 0.06,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Lange Stat- Real Obligationer",
+          "classNo": 1,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.047,
+          "ccy": "DKK",
+          "costs": 0.0045
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (IG)",
+            "en": "EUR Investmet Grade (IG)"
+          },
+          "sharpeRatioNet": 0.123752,
+          "tickerExchange": "EUN5.XETRA",
+          "classMajorEng": "Euro Investment Grade Credit",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B3F81R35",
+          "instrumentName": "iShares Core EUR Corporate Bond",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.0499,
+          "risk": 0.08,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (IG)",
+          "classNo": 2,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.052,
+          "ccy": "EUR",
+          "costs": 0.002
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (HY)",
+            "en": "EUR High Yield Grade (HY)"
+          },
+          "sharpeRatioNet": 0.131516,
+          "tickerExchange": "FPIGHY.CO",
+          "classMajorEng": "Euro High Yield Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0016108640",
+          "instrumentName": "Formuepleje High Yield",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.053152,
+          "risk": 0.1,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (HY)",
+          "classNo": 3,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.066,
+          "ccy": "DKK",
+          "costs": 0.0122
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Danmark",
+            "en": "Denmark"
+          },
+          "sharpeRatioNet": 0.25851,
+          "tickerExchange": "XACTC25.CO",
+          "classMajorEng": "Denmark",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "SE0011452127",
+          "instrumentName": "XACT OMXC25 ESG",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.087824,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Danmark",
+          "classNo": 5,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.002
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "USA",
+            "en": "US"
+          },
+          "sharpeRatioNet": 0.250891,
+          "tickerExchange": "SXR4.XETRA",
+          "classMajorEng": "United States",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B52SFT06",
+          "instrumentName": "iShares MSCI USA",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.086415,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "USA",
+          "classNo": 8,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "EUR",
+          "costs": 0.0033
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Europa",
+            "en": "Europe"
+          },
+          "sharpeRatioNet": 0.263796,
+          "tickerExchange": "EXW1.XETRA",
+          "classMajorEng": "Europe",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "DE0005933956",
+          "instrumentName": "iShares EURO STOXX 50",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.088802,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Europa",
+          "classNo": 9,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "EUR",
+          "costs": 0.0011
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "MSCI EM",
+            "en": "Emerging Markets"
+          },
+          "sharpeRatioNet": 0.302247,
+          "tickerExchange": "IS3N.XETRA",
+          "classMajorEng": "MSCI Emerging Markets",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00BKM4GZ66",
+          "instrumentName": "iShares Core MSCI Emerging Markets",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.108006,
+          "risk": 0.225,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Emerging (EM)",
+          "classNo": 18,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.11,
+          "ccy": "EUR",
+          "costs": 0.0018
+        }
+      ]
+    },
+    {
+      "modelNo": 23,
+      "modelLabel": "Nykredit Model Aggressiv",
+      "modelKategory": "banks",
+      "modelMainIssuer": "nykreditBank",
+      "objKeyfigures": {
+        "singleStocksWeight": 0,
+        "sharpeRatioNet": 0.2739869445310124,
+        "bondsWeight": 0.2,
+        "alternativesWeight": 0,
+        "expRetNet": 0.07989167230873395,
+        "risk": 0.14559698228328774,
+        "equityWeight": 0.7999999999999999,
+        "expRetGross": 0.08460000000000001,
+        "costs": 0.0043599999999999195
+      },
+      "arrayHoldings": [
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Lange Stat- Real Obligationer",
+            "en": "EUR Long Gov - Covered"
+          },
+          "sharpeRatioNet": 0.099234,
+          "tickerExchange": "0P0001UOUI.CO",
+          "classMajorEng": "Long Government and Covered Bonds",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0063181698",
+          "instrumentName": "Nykredit Invest Lange Obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.045954,
+          "risk": 0.06,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Lange Stat- Real Obligationer",
+          "classNo": 1,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.047,
+          "ccy": "DKK",
+          "costs": 0.001
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (IG)",
+            "en": "EUR Investmet Grade (IG)"
+          },
+          "sharpeRatioNet": 0.027541,
+          "tickerExchange": "NYIAKO.CO",
+          "classMajorEng": "Euro Investment Grade Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060356392",
+          "instrumentName": "Nykredit Ansvarlige Kreditobligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.042203,
+          "risk": 0.08,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (IG)",
+          "classNo": 2,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.052,
+          "ccy": "DKK",
+          "costs": 0.0094
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (HY)",
+            "en": "EUR High Yield Grade (HY)"
+          },
+          "sharpeRatioNet": 0.180645,
+          "tickerExchange": "NYIKRO.CO",
+          "classMajorEng": "Euro High Yield Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060356202",
+          "instrumentName": "Nykredit Kreditobligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.058065,
+          "risk": 0.1,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (HY)",
+          "classNo": 3,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.066,
+          "ccy": "DKK",
+          "costs": 0.0075
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Danmark",
+            "en": "Denmark"
+          },
+          "sharpeRatioNet": 0.198106,
+          "tickerExchange": "NYIDA.CO",
+          "classMajorEng": "Denmark",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0010297118",
+          "instrumentName": "Nykredit Danske Aktier",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.07665,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Danmark",
+          "classNo": 5,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.0124
+        },
+        {
+          "weight": 0.35,
+          "classMajor": {
+            "da": "USA",
+            "en": "US"
+          },
+          "sharpeRatioNet": 0.250891,
+          "tickerExchange": "SXR4.XETRA",
+          "classMajorEng": "United States",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B52SFT06",
+          "instrumentName": "iShares MSCI USA",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.086415,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "USA",
+          "classNo": 8,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "EUR",
+          "costs": 0.0033
+        },
+        {
+          "weight": 0.2,
+          "classMajor": {
+            "da": "Europa",
+            "en": "Europe"
+          },
+          "sharpeRatioNet": 0.263796,
+          "tickerExchange": "EXW1.XETRA",
+          "classMajorEng": "Europe",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "DE0005933956",
+          "instrumentName": "iShares EURO STOXX 50",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.088802,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Europa",
+          "classNo": 9,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "EUR",
+          "costs": 0.0011
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "MSCI EM",
+            "en": "Emerging Markets"
+          },
+          "sharpeRatioNet": 0.302247,
+          "tickerExchange": "IS3N.XETRA",
+          "classMajorEng": "MSCI Emerging Markets",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00BKM4GZ66",
+          "instrumentName": "iShares Core MSCI Emerging Markets",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.108006,
+          "risk": 0.225,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Emerging (EM)",
+          "classNo": 18,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.11,
+          "ccy": "EUR",
+          "costs": 0.0018
+        }
+      ]
+    },
+    {
+      "modelNo": 24,
+      "modelLabel": "Nykredit Model Balanceret",
+      "modelKategory": "banks",
+      "modelMainIssuer": "nykreditBank",
+      "objKeyfigures": {
+        "singleStocksWeight": 0,
+        "sharpeRatioNet": 0.2866770461304053,
+        "bondsWeight": 0.4,
+        "alternativesWeight": 0,
+        "expRetNet": 0.07258787214975593,
+        "risk": 0.11367450791624303,
+        "equityWeight": 0.6,
+        "expRetGross": 0.07719999999999994,
+        "costs": 0.0042999999999999705
+      },
+      "arrayHoldings": [
+        {
+          "weight": 0.2,
+          "classMajor": {
+            "da": "Lange Stat- Real Obligationer",
+            "en": "EUR Long Gov - Covered"
+          },
+          "sharpeRatioNet": 0.099234,
+          "tickerExchange": "0P0001UOUI.CO",
+          "classMajorEng": "Long Government and Covered Bonds",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0063181698",
+          "instrumentName": "Nykredit Invest Lange Obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.045954,
+          "risk": 0.06,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Lange Stat- Real Obligationer",
+          "classNo": 1,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.047,
+          "ccy": "DKK",
+          "costs": 0.001
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (IG)",
+            "en": "EUR Investmet Grade (IG)"
+          },
+          "sharpeRatioNet": 0.027541,
+          "tickerExchange": "NYIAKO.CO",
+          "classMajorEng": "Euro Investment Grade Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060356392",
+          "instrumentName": "Nykredit Ansvarlige Kreditobligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.042203,
+          "risk": 0.08,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (IG)",
+          "classNo": 2,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.052,
+          "ccy": "DKK",
+          "costs": 0.0094
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (HY)",
+            "en": "EUR High Yield Grade (HY)"
+          },
+          "sharpeRatioNet": 0.180645,
+          "tickerExchange": "NYIKRO.CO",
+          "classMajorEng": "Euro High Yield Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060356202",
+          "instrumentName": "Nykredit Kreditobligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.058065,
+          "risk": 0.1,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (HY)",
+          "classNo": 3,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.066,
+          "ccy": "DKK",
+          "costs": 0.0075
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Danmark",
+            "en": "Denmark"
+          },
+          "sharpeRatioNet": 0.198106,
+          "tickerExchange": "NYIDA.CO",
+          "classMajorEng": "Denmark",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0010297118",
+          "instrumentName": "Nykredit Danske Aktier",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.07665,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Danmark",
+          "classNo": 5,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.0124
+        },
+        {
+          "weight": 0.25,
+          "classMajor": {
+            "da": "USA",
+            "en": "US"
+          },
+          "sharpeRatioNet": 0.250891,
+          "tickerExchange": "SXR4.XETRA",
+          "classMajorEng": "United States",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B52SFT06",
+          "instrumentName": "iShares MSCI USA",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.086415,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "USA",
+          "classNo": 8,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "EUR",
+          "costs": 0.0033
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Europa",
+            "en": "Europe"
+          },
+          "sharpeRatioNet": 0.263796,
+          "tickerExchange": "EXW1.XETRA",
+          "classMajorEng": "Europe",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "DE0005933956",
+          "instrumentName": "iShares EURO STOXX 50",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.088802,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Europa",
+          "classNo": 9,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "EUR",
+          "costs": 0.0011
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "MSCI EM",
+            "en": "Emerging Markets"
+          },
+          "sharpeRatioNet": 0.302247,
+          "tickerExchange": "IS3N.XETRA",
+          "classMajorEng": "MSCI Emerging Markets",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00BKM4GZ66",
+          "instrumentName": "iShares Core MSCI Emerging Markets",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.108006,
+          "risk": 0.225,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Emerging (EM)",
+          "classNo": 18,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.11,
+          "ccy": "EUR",
+          "costs": 0.0018
+        }
+      ]
+    },
+    {
+      "modelNo": 25,
+      "modelLabel": "Nykredit Model Defensiv",
+      "modelKategory": "banks",
+      "modelMainIssuer": "nykreditBank",
+      "objKeyfigures": {
+        "singleStocksWeight": 0,
+        "sharpeRatioNet": 0.29287226307875663,
+        "bondsWeight": 0.65,
+        "alternativesWeight": 0,
+        "expRetNet": 0.06218880701055585,
+        "risk": 0.07576274645232972,
+        "equityWeight": 0.35000000000000003,
+        "expRetGross": 0.0666500000000001,
+        "costs": 0.0041999999999999815
+      },
+      "arrayHoldings": [
+        {
+          "weight": 0.35,
+          "classMajor": {
+            "da": "Lange Stat- Real Obligationer",
+            "en": "EUR Long Gov - Covered"
+          },
+          "sharpeRatioNet": 0.099234,
+          "tickerExchange": "0P0001UOUI.CO",
+          "classMajorEng": "Long Government and Covered Bonds",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0063181698",
+          "instrumentName": "Nykredit Invest Lange Obligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.045954,
+          "risk": 0.06,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Lange Stat- Real Obligationer",
+          "classNo": 1,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.047,
+          "ccy": "DKK",
+          "costs": 0.001
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (IG)",
+            "en": "EUR Investmet Grade (IG)"
+          },
+          "sharpeRatioNet": 0.027541,
+          "tickerExchange": "NYIAKO.CO",
+          "classMajorEng": "Euro Investment Grade Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060356392",
+          "instrumentName": "Nykredit Ansvarlige Kreditobligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.042203,
+          "risk": 0.08,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (IG)",
+          "classNo": 2,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.052,
+          "ccy": "DKK",
+          "costs": 0.0094
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "Kreditobligationer EUR (HY)",
+            "en": "EUR High Yield Grade (HY)"
+          },
+          "sharpeRatioNet": 0.180645,
+          "tickerExchange": "NYIKRO.CO",
+          "classMajorEng": "Euro High Yield Credit",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0060356202",
+          "instrumentName": "Nykredit Kreditobligationer",
+          "classMajorTopDK": "Obligationer",
+          "expRetNet": 0.058065,
+          "risk": 0.1,
+          "classMajorTop": {
+            "da": "Obligationer",
+            "en": "Bonds"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Bonds",
+          "classMajorDK": "Kreditobligationer EUR (HY)",
+          "classNo": 3,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.066,
+          "ccy": "DKK",
+          "costs": 0.0075
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "Danmark",
+            "en": "Denmark"
+          },
+          "sharpeRatioNet": 0.198106,
+          "tickerExchange": "NYIDA.CO",
+          "classMajorEng": "Denmark",
+          "instrumentType": {
+            "da": "Aktie",
+            "en": "Stock"
+          },
+          "isin": "DK0010297118",
+          "instrumentName": "Nykredit Danske Aktier",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.07665,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "Investfond",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Danmark",
+          "classNo": 5,
+          "instrumentTypeLabelENG": "MuTual Fund",
+          "expRetGross": 0.09,
+          "ccy": "DKK",
+          "costs": 0.0124
+        },
+        {
+          "weight": 0.15,
+          "classMajor": {
+            "da": "USA",
+            "en": "US"
+          },
+          "sharpeRatioNet": 0.250891,
+          "tickerExchange": "SXR4.XETRA",
+          "classMajorEng": "United States",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00B52SFT06",
+          "instrumentName": "iShares MSCI USA",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.086415,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "USA",
+          "classNo": 8,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "EUR",
+          "costs": 0.0033
+        },
+        {
+          "weight": 0.1,
+          "classMajor": {
+            "da": "Europa",
+            "en": "Europe"
+          },
+          "sharpeRatioNet": 0.263796,
+          "tickerExchange": "EXW1.XETRA",
+          "classMajorEng": "Europe",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "DE0005933956",
+          "instrumentName": "iShares EURO STOXX 50",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.088802,
+          "risk": 0.185,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Europa",
+          "classNo": 9,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.09,
+          "ccy": "EUR",
+          "costs": 0.0011
+        },
+        {
+          "weight": 0.05,
+          "classMajor": {
+            "da": "MSCI EM",
+            "en": "Emerging Markets"
+          },
+          "sharpeRatioNet": 0.302247,
+          "tickerExchange": "IS3N.XETRA",
+          "classMajorEng": "MSCI Emerging Markets",
+          "instrumentType": {
+            "da": "ETF",
+            "en": "ETF"
+          },
+          "isin": "IE00BKM4GZ66",
+          "instrumentName": "iShares Core MSCI Emerging Markets",
+          "classMajorTopDK": "Aktier",
+          "expRetNet": 0.108006,
+          "risk": 0.225,
+          "classMajorTop": {
+            "da": "Aktier",
+            "en": "Equity"
+          },
+          "instrumentTypeLabelDK": "ETF",
+          "classMajorTopEng": "Equity",
+          "classMajorDK": "Global Emerging (EM)",
+          "classNo": 18,
+          "instrumentTypeLabelENG": "ETF",
+          "expRetGross": 0.11,
+          "ccy": "EUR",
+          "costs": 0.0018
         }
       ]
     }
