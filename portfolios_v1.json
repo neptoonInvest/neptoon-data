@@ -1,0 +1,22 @@
+{
+  "version": "2026-05",
+  "updatedAt": "2026-05-01",
+  "portfolios": [
+    {
+      "modelNo": 1,
+      "modelName": "Bohr",
+      "riskLabel": "Very Low Risk",
+      "expRetNet": 0.034,
+      "risk": 0.045,
+      "costs": 0.006,
+      "sharpeRatioNet": 0.41,
+      "holdings": [
+        {
+          "isin": "US5949181045",
+          "name": "Microsoft",
+          "weight": 0.10
+        }
+      ]
+    }
+  ]
+}
