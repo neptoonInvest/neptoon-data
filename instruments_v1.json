@@ -1,0 +1,19 @@
+{
+  "version": "2026-05",
+  "updatedAt": "2026-05-01",
+  "instruments": [
+    {
+      "isin": "US5949181045",
+      "tickerExchange": "MSFT.US",
+      "name": "Microsoft",
+      "instrumentType": "stock",
+      "classNo": 100,
+      "classMajor": "Equity",
+      "ccy": "USD",
+      "expRetNet": 0.087,
+      "risk": 0.21,
+      "costs": 0.001,
+      "sharpeRatioNet": 0.34
+    }
+  ]
+}
