@@ -1,6 +1,6 @@
-{
+ {
   "version": "2026-05",
-  "updatedAt": "2026-05-03T09:54:58.473Z",
+  "updatedAt": "2026-05-04T08:20:06.381Z",
   "source": "Neptoon Invest",
   "count": 26,
   "portfolios": [
@@ -9,7 +9,8 @@
       "modelLabel": "Neptoon Global Aggressiv",
       "modelKategory": "neptoon",
       "modelMainIssuer": "neptoon",
-      "strategicWeighModel": "",
+      "strategicWeightModel": "niAggressiv",
+      "issuerName": "neptoon",
       "descriptionLong": "The Neptoon Global Aggressive portfolio is a globally diversified multi-asset strategy, fully implemented through passive investment funds, including Danish-listed index funds and Exchange Traded Funds (ETFs). The portfolio does not rely on active fund selection, ensuring a transparent, rules-based investment approach.\n\nStrategy\nThe portfolio follows a global multi-asset framework with a fully passive core, aiming to generate returns above its benchmark through disciplined strategic allocation rather than discretionary active management.\n\nAllocation Framework\nThe strategic allocation is defined as 75% equities and 25% bonds, providing broad exposure across global equity and fixed income markets. Alternative assets such as gold and commodities may be included to enhance diversification.\n\nImplementation\nThe portfolio is constructed exclusively using liquid, low-cost index-based instruments. The structure is fully transparent and can be followed and replicated via Excel or through the Neptoon platform.\n\nInvestor Profile\nThe portfolio is designed for investors seeking long-term capital growth, who are comfortable with higher levels of volatility and have a long-term investment horizon.",
       "objKeyFigures": {
         "expRetGross": 0.0846,
@@ -20,6 +21,16 @@
         "equityWeight": 0.8,
         "bondWeight": null,
         "alternativesWeight": 0
+      },
+      "objHistStatistics": {
+        "totalReturn": 1.439517770092583,
+        "endDate": "2026-03-31",
+        "risk": 0.1096524960768381,
+        "startIndex": 100,
+        "endIndex": 243.95177700925828,
+        "cagr": 0.08249779646538968,
+        "startDate": "2014-12-31",
+        "months": 135
       },
       "arrayBuckets": [
         {
@@ -203,7 +214,8 @@
       "modelLabel": "Neptoon Global Balanceret",
       "modelKategory": "neptoon",
       "modelMainIssuer": "neptoon",
-      "strategicWeighModel": "",
+      "strategicWeightModel": "niBalanceret",
+      "issuerName": "neptoon",
       "descriptionLong": "The Neptoon Global Balanced portfolio is a globally diversified multi-asset strategy, fully implemented through passive investment funds, including Danish-listed index funds and Exchange Traded Funds (ETFs). The portfolio does not rely on active fund selection, ensuring a transparent, rules-based investment approach.\n\nStrategy\nThe portfolio follows a global multi-asset framework with a fully passive core, aiming to generate returns above its benchmark through disciplined strategic allocation rather than discretionary active management.\n\nAllocation Framework\nThe strategic allocation is defined as 50% equities and 50% bonds, providing balanced exposure across global equity and fixed income markets. Alternative assets such as gold and commodities may be included to enhance diversification.\n\nImplementation\nThe portfolio is constructed exclusively using liquid, low-cost index-based instruments. The structure is fully transparent and can be followed and replicated via Excel or through the Neptoon platform.\n\nInvestor Profile\nThe portfolio is designed for investors seeking a balance between capital growth and stability, with a moderate risk tolerance and a medium- to long-term investment horizon.",
       "objKeyFigures": {
         "expRetGross": 0.0772,
@@ -214,6 +226,16 @@
         "equityWeight": 0.6,
         "bondWeight": null,
         "alternativesWeight": 0
+      },
+      "objHistStatistics": {
+        "totalReturn": 1.0120805397752468,
+        "endDate": "2026-03-31",
+        "risk": 0.08857637203322094,
+        "startIndex": 100,
+        "endIndex": 201.20805397752468,
+        "cagr": 0.06412022775506498,
+        "startDate": "2014-12-31",
+        "months": 135
       },
       "arrayBuckets": [
         {
@@ -397,7 +419,8 @@
       "modelLabel": "Neptoon Global Defensiv",
       "modelKategory": "neptoon",
       "modelMainIssuer": "neptoon",
-      "strategicWeighModel": "",
+      "strategicWeightModel": "niDefensiv",
+      "issuerName": "neptoon",
       "descriptionLong": "The Neptoon Global Defensive portfolio is a globally diversified multi-asset strategy, fully implemented through passive investment funds, including Danish-listed index funds and Exchange Traded Funds (ETFs). The portfolio does not rely on active fund selection, ensuring a transparent, systematic investment approach.\n\nStrategy\nThe portfolio follows a global multi-asset framework with a fully passive core, aiming to generate returns above its benchmark through disciplined strategic allocation rather than discretionary active management.\n\nAllocation Framework\nThe strategic allocation is defined as 25% equities and 75% bonds, providing a defensive exposure across global equity and fixed income markets. Alternative assets such as gold and commodities may be included to enhance diversification.\n\nImplementation\nThe portfolio is constructed exclusively using liquid, low-cost index-based instruments. The structure is fully transparent and can be followed and replicated via Excel or through the Neptoon platform.\n\nInvestor Profile\nThe portfolio is designed for investors seeking stability and capital preservation with limited exposure to equity market volatility. It is suitable for investors with a lower risk tolerance and a medium- to long-term investment horizon.",
       "objKeyFigures": {
         "expRetGross": 0.06665,
@@ -408,6 +431,16 @@
         "equityWeight": 0.35,
         "bondWeight": null,
         "alternativesWeight": 0
+      },
+      "objHistStatistics": {
+        "totalReturn": 0.5903114374322616,
+        "endDate": "2026-03-31",
+        "risk": 0.06426434198144243,
+        "startIndex": 100,
+        "endIndex": 159.03114374322615,
+        "cagr": 0.042100315359679064,
+        "startDate": "2014-12-31",
+        "months": 135
       },
       "arrayBuckets": [
         {
@@ -591,7 +624,8 @@
       "modelLabel": "Neptoon Bohr",
       "modelKategory": "neptoon",
       "modelMainIssuer": "neptoon",
-      "strategicWeighModel": "",
+      "strategicWeightModel": "niBohr",
+      "issuerName": "neptoon",
       "descriptionLong": "The Neptoon Bohr portfolio is a globally diversified multi-asset strategy with a clear focus on capital preservation. The portfolio is implemented through a combination of passive investment funds, actively managed funds, and selective single stock positions, allowing for a flexible and opportunity-driven investment approach.\n\nStrategy\nThe portfolio follows a defensive, fixed income–anchored strategy with a strategic target of 100% bonds. The objective is to preserve capital and generate stable returns above the benchmark through disciplined allocation and selective positioning.\n\nAllocation Framework\nThe portfolio is anchored in global fixed income markets, with the flexibility to allocate to equities and alternative assets when risk-adjusted opportunities arise. Alternative assets such as gold and commodities may be included to enhance diversification and provide additional downside protection.\n\nImplementation\nThe portfolio combines passive index-based instruments with active fund selection and selective equity exposure. This allows for both stability and targeted alpha opportunities. The structure remains transparent and can be followed and replicated via Excel or through the Neptoon platform.\n\nInvestor Profile\nThe portfolio is designed for investors seeking capital preservation and stability, with minimal exposure to equity market volatility. It is suitable for investors with a low risk tolerance who prioritize downside protection while maintaining limited exposure to tactical opportunities.",
       "objKeyFigures": {
         "expRetGross": 0.05495,
@@ -602,6 +636,16 @@
         "equityWeight": 0,
         "bondWeight": null,
         "alternativesWeight": 0.15
+      },
+      "objHistStatistics": {
+        "totalReturn": 0.3175725130361473,
+        "endDate": "2026-03-31",
+        "risk": 0.04051847833478302,
+        "startIndex": 100,
+        "endIndex": 131.75725130361474,
+        "cagr": 0.024817716237117038,
+        "startDate": "2014-12-31",
+        "months": 135
       },
       "arrayBuckets": [
         {
@@ -785,7 +829,8 @@
       "modelLabel": "Neptoon Ørsted",
       "modelKategory": "neptoon",
       "modelMainIssuer": "neptoon",
-      "strategicWeighModel": "",
+      "strategicWeightModel": "niOrsted",
+      "issuerName": "neptoon",
       "descriptionLong": "The Neptoon Ørsted portfolio is a globally diversified multi-asset strategy with a defensive and income-oriented focus. The portfolio is implemented through a combination of passive investment funds, actively managed funds, and selective single stock positions, allowing for a flexible and opportunity-driven investment approach.\n\nStrategy\nThe portfolio follows a defensive multi-asset framework with a strategic target of 25% equities and 75% bonds. The objective is to generate stable returns above the benchmark through disciplined allocation and selective positioning, while maintaining a strong focus on income and capital stability.\n\nAllocation Framework\nThe portfolio is anchored in global fixed income markets, complemented by a defined equity allocation to support long-term return generation. Alternative assets such as gold and commodities may be included to enhance diversification, improve income characteristics, and provide additional downside protection.\n\nImplementation\nThe portfolio combines passive index-based instruments with active fund selection and selective equity exposure. This enables both broad market exposure and targeted alpha opportunities. The structure remains transparent and can be followed and replicated via Excel or through the Neptoon platform.\n\nInvestor Profile\nThe portfolio is designed for investors seeking stable returns with moderate growth potential. It is suitable for investors with a relatively low to moderate risk tolerance who value income, diversification, and controlled exposure to equity markets.",
       "objKeyFigures": {
         "expRetGross": 0.0707,
@@ -796,6 +841,16 @@
         "equityWeight": 0.4,
         "bondWeight": null,
         "alternativesWeight": 0.1
+      },
+      "objHistStatistics": {
+        "totalReturn": 0.8361266192060535,
+        "endDate": "2026-03-31",
+        "risk": 0.06520825921738753,
+        "startIndex": 100,
+        "endIndex": 183.61266192060535,
+        "cagr": 0.055499449834545356,
+        "startDate": "2014-12-31",
+        "months": 135
       },
       "arrayBuckets": [
         {
@@ -1011,7 +1066,8 @@
       "modelLabel": "Neptoon Tycho",
       "modelKategory": "neptoon",
       "modelMainIssuer": "neptoon",
-      "strategicWeighModel": "",
+      "strategicWeightModel": "niTycho",
+      "issuerName": "neptoon",
       "descriptionLong": "The Neptoon Tycho portfolio is a globally diversified multi-asset strategy with a balanced and adaptive investment approach. The portfolio is implemented through a combination of passive investment funds, actively managed funds, and selective single stock positions, allowing for a flexible and opportunity-driven allocation framework.\n\nStrategy\nThe portfolio follows a balanced multi-asset framework with a strategic target of 50% equities and 50% bonds. The objective is to generate returns above the benchmark through dynamic allocation and selective positioning, adapting to changing market conditions across asset classes.\n\nAllocation Framework\nThe portfolio maintains a balanced exposure across global equity and fixed income markets, with the flexibility to adjust allocations as market conditions evolve. Alternative assets such as gold and commodities may be included to enhance diversification and support risk-adjusted returns.\n\nImplementation\nThe portfolio combines passive index-based instruments with active fund selection and selective equity exposure. This enables both broad market participation and targeted alpha opportunities. The structure remains transparent and can be followed and replicated via Excel or through the Neptoon platform.\n\nInvestor Profile\nThe portfolio is designed for investors seeking a balance between growth and stability, with the ability to adapt to changing market conditions. It is suitable for investors with a moderate risk tolerance and a medium- to long-term investment horizon.",
       "objKeyFigures": {
         "expRetGross": 0.0793,
@@ -1022,6 +1078,16 @@
         "equityWeight": 0.65,
         "bondWeight": null,
         "alternativesWeight": 0.05
+      },
+      "objHistStatistics": {
+        "totalReturn": 1.1784775408272603,
+        "endDate": "2026-03-31",
+        "risk": 0.08601949387054009,
+        "startIndex": 100,
+        "endIndex": 217.84775408272603,
+        "cagr": 0.07166254486018664,
+        "startDate": "2014-12-31",
+        "months": 135
       },
       "arrayBuckets": [
         {
@@ -1205,7 +1271,8 @@
       "modelLabel": "Neptoon Turing",
       "modelKategory": "neptoon",
       "modelMainIssuer": "neptoon",
-      "strategicWeighModel": "",
+      "strategicWeightModel": "niTuring",
+      "issuerName": "neptoon",
       "descriptionLong": "The Neptoon Turing portfolio is a globally diversified multi-asset strategy with a strong focus on technology, innovation, and structural growth trends. The portfolio is implemented through a combination of passive investment funds, actively managed funds, and selective single stock positions, enabling a high-conviction and opportunity-driven investment approach.\n\nStrategy\nThe portfolio follows a growth-oriented multi-asset framework with a strategic target of 75% equities and 25% bonds. The objective is to generate returns above the benchmark through concentrated exposure to technology-driven sectors and companies, combined with dynamic allocation and selective positioning.\n\nAllocation Framework\nThe portfolio is primarily allocated to global equity markets, with a strong emphasis on technology and innovation-related themes. Fixed income exposure is limited and used selectively, while alternative assets such as gold and commodities may be included to enhance diversification when relevant.\n\nImplementation\nThe portfolio combines passive index-based instruments with active fund selection and selective equity exposure, particularly within technology and innovation sectors. This allows for both broad thematic exposure and targeted alpha opportunities. The structure remains transparent and can be followed and replicated via Excel or through the Neptoon platform.\n\nInvestor Profile\nThe portfolio is designed for investors seeking high long-term capital growth and who are comfortable with elevated levels of volatility. It is suitable for investors with a high risk tolerance and a long-term investment horizon, with a strong belief in technology and innovation as key drivers of future returns.",
       "objKeyFigures": {
         "expRetGross": 0.0942,
@@ -1216,6 +1283,16 @@
         "equityWeight": 0.95,
         "bondWeight": null,
         "alternativesWeight": 0.05
+      },
+      "objHistStatistics": {
+        "totalReturn": 1.9031334256434334,
+        "endDate": "2026-03-31",
+        "risk": 0.12178439781164858,
+        "startIndex": 100,
+        "endIndex": 290.3133425643433,
+        "cagr": 0.09936962378099157,
+        "startDate": "2014-12-31",
+        "months": 135
       },
       "arrayBuckets": [
         {
@@ -1399,7 +1476,8 @@
       "modelLabel": "Neptoon Oppenheimer",
       "modelKategory": "neptoon",
       "modelMainIssuer": "neptoon",
-      "strategicWeighModel": "",
+      "strategicWeightModel": "niOppenheimer",
+      "issuerName": "neptoon",
       "descriptionLong": "The Neptoon Oppenheimer portfolio is a globally diversified multi-asset strategy with an aggressive and opportunistic investment profile. The portfolio is implemented through a combination of passive investment funds, actively managed funds, and selective single stock positions, enabling a flexible and high-conviction allocation approach.\n\nStrategy\nThe portfolio follows a high-growth multi-asset framework with a strategic emphasis on equity markets, supplemented by tactical exposure to high-volatility assets. The objective is to generate returns above the benchmark through concentrated positioning, dynamic allocation, and selective exposure to asymmetric return opportunities.\n\nAllocation Framework\nThe portfolio is primarily allocated to global equity markets, with the ability to incorporate leveraged equity exposure and alternative assets such as Bitcoin. Fixed income exposure is minimal or absent, while alternative assets may play a meaningful role in shaping the overall risk and return profile.\n\nImplementation\nThe portfolio combines passive index-based instruments with active fund selection and selective equity exposure, including the use of leveraged ETFs and high-volatility assets. This allows for amplified market participation as well as targeted alpha opportunities. The structure remains transparent and can be followed and replicated via Excel or through the Neptoon platform.\n\nInvestor Profile\nThe portfolio is designed for investors seeking maximum capital growth and who are comfortable with significant volatility and drawdowns. It is suitable for investors with a high risk tolerance and a long-term investment horizon, who understand the implications of leveraged exposure and alternative assets.",
       "objKeyFigures": {
         "expRetGross": 0.109682,
@@ -1410,6 +1488,16 @@
         "equityWeight": 0.85,
         "bondWeight": null,
         "alternativesWeight": 0.15
+      },
+      "objHistStatistics": {
+        "totalReturn": 11.237341294054643,
+        "endDate": "2026-03-31",
+        "risk": 0.19210731176997645,
+        "startIndex": 100,
+        "endIndex": 1223.7341294054643,
+        "cagr": 0.24934762437092872,
+        "startDate": "2014-12-31",
+        "months": 135
       },
       "arrayBuckets": [
         {
@@ -1593,7 +1681,8 @@
       "modelLabel": "Danske Bank Model Aggressiv",
       "modelKategory": "banks",
       "modelMainIssuer": "danskeBank",
-      "strategicWeighModel": "",
+      "strategicWeightModel": "niAggressiv",
+      "issuerName": "Danske Banks A/S",
       "descriptionLong": "The Danske Bank Aggressive model portfolio is a globally diversified multi-asset strategy, constructed using the same strategic asset allocation as the Neptoon Global Aggressive portfolio.\n\nDescription\nThe portfolio is built around Danske Bank’s own fund universe, combining actively managed funds with passive investment instruments where appropriate. This approach reflects Danske Bank’s investment philosophy and fund selection process within a structured multi-asset framework.\n\nStrategy\nThe portfolio follows a global multi-asset framework with a strategic target of 75% equities and 25% bonds. The objective is to generate returns above the benchmark through diversified exposure across asset classes and professional fund selection.\n\nAllocation Framework\nThe portfolio provides broad exposure to global equity and fixed income markets through a mix of underlying funds. Alternative assets such as gold and commodities may be included to enhance diversification.\n\nImplementation\nThe portfolio is implemented using a combination of Danske Bank funds and external investment instruments, including both active and passive strategies. The structure reflects a curated fund selection approach within each asset class.\n\nInvestor Profile\nThe portfolio is designed for investors seeking long-term capital growth and who are comfortable with higher levels of volatility. It is suitable for investors with a long-term investment horizon and a high risk tolerance.",
       "objKeyFigures": {
         "expRetGross": 0.0846,
@@ -1604,6 +1693,16 @@
         "equityWeight": 0.8,
         "bondWeight": null,
         "alternativesWeight": 0
+      },
+      "objHistStatistics": {
+        "totalReturn": 1.4097990432534346,
+        "endDate": "2026-03-31",
+        "risk": 0.11277066457492023,
+        "startIndex": 100,
+        "endIndex": 240.97990432534348,
+        "cagr": 0.08131904292549796,
+        "startDate": "2014-12-31",
+        "months": 135
       },
       "arrayBuckets": [
         {
@@ -1787,7 +1886,8 @@
       "modelLabel": "Danske Bank Model Balanceret",
       "modelKategory": "banks",
       "modelMainIssuer": "danskeBank",
-      "strategicWeighModel": "",
+      "strategicWeightModel": "niBalanceret",
+      "issuerName": "Danske Banks A/S",
       "descriptionLong": "The Danske Bank Balanced model portfolio is a globally diversified multi-asset strategy, constructed using the same strategic asset allocation framework as the Neptoon Global Balanced portfolio.\n\nDescription\nThe portfolio is built around Danske Bank’s own fund universe, combining actively managed funds with passive investment instruments where appropriate. This reflects Danske Bank’s investment philosophy and fund selection process within a structured multi-asset framework.\n\nStrategy\nThe portfolio follows a global multi-asset framework with a strategic target of 50% equities and 50% bonds. The objective is to generate returns above the benchmark through diversified exposure across asset classes and professional fund selection.\n\nAllocation Framework\nThe portfolio provides balanced exposure to global equity and fixed income markets through a mix of underlying funds. Alternative assets such as gold and commodities may be included to enhance diversification.\n\nImplementation\nThe portfolio is implemented using a combination of Danske Bank funds and external investment instruments, including both active and passive strategies. The structure reflects a curated fund selection approach within each asset class.\n\nInvestor Profile\nThe portfolio is designed for investors seeking a balance between capital growth and stability. It is suitable for investors with a moderate risk tolerance and a medium- to long-term investment horizon.",
       "objKeyFigures": {
         "expRetGross": 0.0772,
@@ -1798,6 +1898,16 @@
         "equityWeight": 0.6,
         "bondWeight": null,
         "alternativesWeight": 0
+      },
+      "objHistStatistics": {
+        "totalReturn": 0.9799594985399205,
+        "endDate": "2026-03-31",
+        "risk": 0.09215765866806394,
+        "startIndex": 100,
+        "endIndex": 197.99594985399204,
+        "cagr": 0.062599114035085,
+        "startDate": "2014-12-31",
+        "months": 135
       },
       "arrayBuckets": [
         {
@@ -1981,7 +2091,8 @@
       "modelLabel": "Danske Bank Model Defensiv",
       "modelKategory": "banks",
       "modelMainIssuer": "danskeBank",
-      "strategicWeighModel": "",
+      "strategicWeightModel": "niDefensiv",
+      "issuerName": "Danske Banks A/S",
       "descriptionLong": "The Danske Bank Defensive model portfolio is a globally diversified multi-asset strategy, constructed using the same strategic asset allocation framework as the Neptoon Global Defensive portfolio.\n\nDescription\nThe portfolio is built around Danske Bank’s own fund universe, combining actively managed funds with passive investment instruments where appropriate. This reflects Danske Bank’s investment philosophy and fund selection process within a structured multi-asset framework.\n\nStrategy\nThe portfolio follows a global multi-asset framework with a strategic target of 25% equities and 75% bonds. The objective is to generate stable returns above the benchmark through diversified exposure across asset classes and professional fund selection.\n\nAllocation Framework\nThe portfolio provides a defensive allocation across global fixed income and equity markets. Alternative assets such as gold and commodities may be included to enhance diversification and support downside protection.\n\nImplementation\nThe portfolio is implemented using a combination of Danske Bank funds and external investment instruments, including both active and passive strategies. The structure reflects a curated fund selection approach within each asset class.\n\nInvestor Profile\nThe portfolio is designed for investors seeking stability and capital preservation with limited exposure to equity market volatility. It is suitable for investors with a low to moderate risk tolerance.",
       "objKeyFigures": {
         "expRetGross": 0.06665,
@@ -1992,6 +2103,16 @@
         "equityWeight": 0.35,
         "bondWeight": null,
         "alternativesWeight": 0
+      },
+      "objHistStatistics": {
+        "totalReturn": 0.5593051811299121,
+        "endDate": "2026-03-31",
+        "risk": 0.06895057847160502,
+        "startIndex": 100,
+        "endIndex": 155.93051811299122,
+        "cagr": 0.04027804555698089,
+        "startDate": "2014-12-31",
+        "months": 135
       },
       "arrayBuckets": [
         {
@@ -2175,7 +2296,8 @@
       "modelLabel": "Nordea Model Aggressiv",
       "modelKategory": "banks",
       "modelMainIssuer": "nordeaBank",
-      "strategicWeighModel": "",
+      "strategicWeightModel": "niAggressiv",
+      "issuerName": "Nordea Bank A/B",
       "descriptionLong": " The Nordea Aggressive model portfolio is a globally diversified multi-asset strategy, constructed using the same strategic asset allocation as the Neptoon Global Aggressive portfolio.\n\nDescription\nThe portfolio is built around Nordea’s range of investment funds, combining active management with passive investment solutions where appropriate. This reflects Nordea’s approach to diversified portfolio construction.\n\nStrategy\nThe portfolio follows a global multi-asset framework with a strategic target of 75% equities and 25% bonds. The objective is to achieve returns above the benchmark through diversified exposure and active fund selection.\n\nAllocation Framework\nThe portfolio offers broad exposure to global equity and fixed income markets. Alternative assets such as gold and commodities may be included to support diversification.\n\nImplementation\nThe portfolio is implemented using Nordea funds alongside external instruments, applying both active and passive strategies across asset classes.\n\nInvestor Profile\nThe portfolio is designed for investors seeking long-term capital growth and who can accept significant market volatility.",
       "objKeyFigures": {
         "expRetGross": 0.0846,
@@ -2186,6 +2308,16 @@
         "equityWeight": 0.8,
         "bondWeight": null,
         "alternativesWeight": 0
+      },
+      "objHistStatistics": {
+        "totalReturn": 1.229228246631516,
+        "endDate": "2026-03-31",
+        "risk": 0.14250404789420296,
+        "startIndex": 100,
+        "endIndex": 222.92282466315163,
+        "cagr": 0.07385852694099282,
+        "startDate": "2014-12-31",
+        "months": 135
       },
       "arrayBuckets": [
         {
@@ -2369,7 +2501,8 @@
       "modelLabel": "Nordea Model Balanceret",
       "modelKategory": "banks",
       "modelMainIssuer": "nordeaBank",
-      "strategicWeighModel": "",
+      "strategicWeightModel": "niBalanceret",
+      "issuerName": "Nordea Bank A/B",
       "descriptionLong": "The Nordea Balanced model portfolio is a globally diversified multi-asset strategy, constructed using the same strategic asset allocation as the Neptoon Global Balanced portfolio.\n\nDescription\nThe portfolio is built around Nordea’s range of investment funds, combining active management with passive investment solutions where appropriate. This reflects Nordea’s approach to diversified portfolio construction.\n\nStrategy\nThe portfolio follows a global multi-asset framework with a strategic target of 50% equities and 50% bonds. The objective is to achieve returns above the benchmark through diversified exposure and active fund selection.\n\nAllocation Framework\nThe portfolio offers balanced exposure to global equity and fixed income markets. Alternative assets such as gold and commodities may be included to support diversification.\n\nImplementation\nThe portfolio is implemented using Nordea funds alongside external instruments, applying both active and passive strategies across asset classes.\n\nInvestor Profile\nThe portfolio is designed for investors seeking a balance between growth and stability with moderate risk exposure.",
       "objKeyFigures": {
         "expRetGross": 0.0772,
@@ -2380,6 +2513,16 @@
         "equityWeight": 0.6,
         "bondWeight": null,
         "alternativesWeight": 0
+      },
+      "objHistStatistics": {
+        "totalReturn": 0.8507703433582656,
+        "endDate": "2026-03-31",
+        "risk": 0.11525326005877794,
+        "startIndex": 100,
+        "endIndex": 185.07703433582657,
+        "cagr": 0.05624500819591938,
+        "startDate": "2014-12-31",
+        "months": 135
       },
       "arrayBuckets": [
         {
@@ -2563,7 +2706,8 @@
       "modelLabel": "Nordea Model Defensiv",
       "modelKategory": "banks",
       "modelMainIssuer": "nordeaBank",
-      "strategicWeighModel": "",
+      "strategicWeightModel": "niDefensiv",
+      "issuerName": "Nordea Bank A/B",
       "descriptionLong": "The Nordea Defensive model portfolio is a globally diversified multi-asset strategy, constructed using the same strategic asset allocation as the Neptoon Global Defensive portfolio.\n\nDescription\nThe portfolio is built around Nordea’s range of investment funds, combining active management with passive investment solutions where appropriate. This reflects Nordea’s approach to diversified portfolio construction.\n\nStrategy\nThe portfolio follows a global multi-asset framework with a strategic target of 25% equities and 75% bonds. The objective is to achieve stable returns above the benchmark through diversified exposure and active fund selection.\n\nAllocation Framework\nThe portfolio offers a defensive allocation across global fixed income and equity markets. Alternative assets such as gold and commodities may be included to support diversification and reduce risk.\n\nImplementation\nThe portfolio is implemented using Nordea funds alongside external instruments, applying both active and passive strategies across asset classes.\n\nInvestor Profile\nThe portfolio is designed for investors seeking stability and low volatility, with a focus on capital preservation.",
       "objKeyFigures": {
         "expRetGross": 0.06665,
@@ -2574,6 +2718,16 @@
         "equityWeight": 0.35,
         "bondWeight": null,
         "alternativesWeight": 0
+      },
+      "objHistStatistics": {
+        "totalReturn": 0.46621157214297804,
+        "endDate": "2026-03-31",
+        "risk": 0.0841614178191256,
+        "startIndex": 100,
+        "endIndex": 146.6211572142978,
+        "cagr": 0.03460133608588678,
+        "startDate": "2014-12-31",
+        "months": 135
       },
       "arrayBuckets": [
         {
@@ -2757,7 +2911,8 @@
       "modelLabel": "Jyske Model Aggressiv",
       "modelKategory": "banks",
       "modelMainIssuer": "jyskeBank",
-      "strategicWeighModel": "",
+      "strategicWeightModel": "niAggressiv",
+      "issuerName": "Jyske Bank A/S",
       "descriptionLong": "The Jyske Bank Aggressive model portfolio is a globally diversified multi-asset strategy, based on the same strategic allocation principles as the Neptoon Global Aggressive portfolio.\n\nDescription\nThe portfolio is constructed using Jyske Bank’s curated fund universe, combining actively managed funds with passive investment solutions where relevant. This reflects Jyske Bank’s investment philosophy across asset classes.\n\nStrategy\nThe portfolio follows a global multi-asset approach with a strategic target of 75% equities and 25% bonds. The objective is to achieve returns above the benchmark through diversified exposure and professional fund selection.\n\nAllocation Framework\nThe portfolio offers broad access to global equity and fixed income markets. Alternative assets such as gold and commodities may be included to enhance diversification.\n\nImplementation\nThe portfolio is implemented through a mix of Jyske Bank funds and external investment products, utilizing both active and passive strategies.\n\nInvestor Profile\nThe portfolio is suitable for investors seeking high long-term growth and who can accept elevated volatility.",
       "objKeyFigures": {
         "expRetGross": 0.0846,
@@ -2768,6 +2923,16 @@
         "equityWeight": 0.8,
         "bondWeight": null,
         "alternativesWeight": 0
+      },
+      "objHistStatistics": {
+        "totalReturn": 1.324616207216617,
+        "endDate": "2026-03-31",
+        "risk": 0.10994338275706407,
+        "startIndex": 100,
+        "endIndex": 232.4616207216617,
+        "cagr": 0.07786546324199861,
+        "startDate": "2014-12-31",
+        "months": 135
       },
       "arrayBuckets": [
         {
@@ -2951,7 +3116,8 @@
       "modelLabel": "Jyske Model Balanceret",
       "modelKategory": "banks",
       "modelMainIssuer": "jyskeBank",
-      "strategicWeighModel": "",
+      "strategicWeightModel": "niBalanceret",
+      "issuerName": "Jyske Bank A/S",
       "descriptionLong": "The Jyske Bank Balanced model portfolio is a globally diversified multi-asset strategy, based on the same strategic allocation principles as the Neptoon Global Balanced portfolio.\n\nDescription\nThe portfolio is constructed using Jyske Bank’s curated fund universe, combining actively managed funds with passive investment solutions where relevant. This reflects Jyske Bank’s investment philosophy across asset classes.\n\nStrategy\nThe portfolio follows a global multi-asset approach with a strategic target of 50% equities and 50% bonds. The objective is to achieve returns above the benchmark through diversified exposure and professional fund selection.\n\nAllocation Framework\nThe portfolio offers balanced access to global equity and fixed income markets. Alternative assets such as gold and commodities may be included to enhance diversification.\n\nImplementation\nThe portfolio is implemented through a mix of Jyske Bank funds and external investment products, utilizing both active and passive strategies.\n\nInvestor Profile\nThe portfolio is suitable for investors seeking steady growth with moderate volatility.",
       "objKeyFigures": {
         "expRetGross": 0.0772,
@@ -2962,6 +3128,16 @@
         "equityWeight": 0.6,
         "bondWeight": null,
         "alternativesWeight": 0
+      },
+      "objHistStatistics": {
+        "totalReturn": 0.9494375257260073,
+        "endDate": "2026-03-31",
+        "risk": 0.08953872273493695,
+        "startIndex": 100,
+        "endIndex": 194.94375257260072,
+        "cagr": 0.06113274758637033,
+        "startDate": "2014-12-31",
+        "months": 135
       },
       "arrayBuckets": [
         {
@@ -3145,7 +3321,8 @@
       "modelLabel": "Jyske Model Defensiv",
       "modelKategory": "banks",
       "modelMainIssuer": "jyskeBank",
-      "strategicWeighModel": "",
+      "strategicWeightModel": "niDefensiv",
+      "issuerName": "Jyske Bank A/S",
       "descriptionLong": "The Jyske Bank Defensive model portfolio is a globally diversified multi-asset strategy, based on the same strategic allocation principles as the Neptoon Global Defensive portfolio.\n\nDescription\nThe portfolio is constructed using Jyske Bank’s curated fund universe, combining actively managed funds with passive investment solutions where relevant. This reflects Jyske Bank’s investment philosophy across asset classes.\n\nStrategy\nThe portfolio follows a global multi-asset approach with a strategic target of 25% equities and 75% bonds. The objective is to achieve stable returns above the benchmark through diversified exposure and professional fund selection.\n\nAllocation Framework\nThe portfolio offers a defensive allocation across global fixed income and equity markets. Alternative assets such as gold and commodities may be included to enhance diversification and risk control.\n\nImplementation\nThe portfolio is implemented through a mix of Jyske Bank funds and external investment products, utilizing both active and passive strategies.\n\nInvestor Profile\nThe portfolio is suitable for investors seeking capital preservation and low volatility with limited exposure to equity markets.",
       "objKeyFigures": {
         "expRetGross": 0.06665,
@@ -3156,6 +3333,16 @@
         "equityWeight": 0.35,
         "bondWeight": null,
         "alternativesWeight": 0
+      },
+      "objHistStatistics": {
+        "totalReturn": 0.5822435150946876,
+        "endDate": "2026-03-31",
+        "risk": 0.065940032132898,
+        "startIndex": 100,
+        "endIndex": 158.22435150946876,
+        "cagr": 0.04162929213143984,
+        "startDate": "2014-12-31",
+        "months": 135
       },
       "arrayBuckets": [
         {
@@ -3339,7 +3526,8 @@
       "modelLabel": "Sydbank Model Aggressiv",
       "modelKategory": "banks",
       "modelMainIssuer": "sydBank",
-      "strategicWeighModel": "",
+      "strategicWeightModel": "niAggressiv",
+      "issuerName": "Al-Sydbank A/S",
       "descriptionLong": "The Sydbank Aggressive model portfolio is a globally diversified multi-asset strategy, constructed using the same strategic asset allocation framework as the Neptoon Global Aggressive portfolio.\n\nDescription\nThe portfolio is built around Sydbank’s own selection of investment funds, combining actively managed funds with passive instruments where appropriate. This reflects Sydbank’s approach to portfolio construction within a structured multi-asset framework.\n\nStrategy\nThe portfolio follows a global multi-asset framework with a strategic target of 75% equities and 25% bonds. The objective is to generate returns above the benchmark through diversified exposure and active fund selection.\n\nAllocation Framework\nThe portfolio provides broad exposure to global equity and fixed income markets through a mix of underlying funds. Alternative assets such as gold and commodities may be included to support diversification.\n\nImplementation\nThe portfolio is implemented using a combination of Sydbank funds and external instruments, incorporating both active and passive strategies depending on asset class.\n\nInvestor Profile\nThe portfolio is designed for investors seeking long-term capital growth and who are comfortable with higher levels of volatility.",
       "objKeyFigures": {
         "expRetGross": 0.0846,
@@ -3350,6 +3538,16 @@
         "equityWeight": 0.8,
         "bondWeight": null,
         "alternativesWeight": 0
+      },
+      "objHistStatistics": {
+        "totalReturn": 1.204726123041406,
+        "endDate": "2026-03-31",
+        "risk": 0.12075371283964273,
+        "startIndex": 100,
+        "endIndex": 220.4726123041406,
+        "cagr": 0.07280407167584824,
+        "startDate": "2014-12-31",
+        "months": 135
       },
       "arrayBuckets": [
         {
@@ -3533,7 +3731,8 @@
       "modelLabel": "Sydbank  Model Balanceret",
       "modelKategory": "banks",
       "modelMainIssuer": "sydBank",
-      "strategicWeighModel": "",
+      "strategicWeightModel": "niBalanceret",
+      "issuerName": "Al-Sydbank A/S",
       "descriptionLong": "The Sydbank Balanced model portfolio is a globally diversified multi-asset strategy, constructed using the same strategic asset allocation framework as the Neptoon Global Balanced portfolio.\n\nDescription\nThe portfolio is built around Sydbank’s own selection of investment funds, combining actively managed funds with passive instruments where appropriate. This reflects Sydbank’s approach to portfolio construction within a structured multi-asset framework.\n\nStrategy\nThe portfolio follows a global multi-asset framework with a strategic target of 50% equities and 50% bonds. The objective is to generate returns above the benchmark through diversified exposure and active fund selection.\n\nAllocation Framework\nThe portfolio provides balanced exposure to global equity and fixed income markets. Alternative assets such as gold and commodities may be included to support diversification.\n\nImplementation\nThe portfolio is implemented using a combination of Sydbank funds and external instruments, incorporating both active and passive strategies depending on asset class.\n\nInvestor Profile\nThe portfolio is designed for investors seeking a balance between growth and stability, with a moderate risk tolerance.",
       "objKeyFigures": {
         "expRetGross": 0.0772,
@@ -3544,6 +3743,16 @@
         "equityWeight": 0.6,
         "bondWeight": null,
         "alternativesWeight": 0
+      },
+      "objHistStatistics": {
+        "totalReturn": 0.8740240775788708,
+        "endDate": "2026-03-31",
+        "risk": 0.09522788633421324,
+        "startIndex": 100,
+        "endIndex": 187.4024077578871,
+        "cagr": 0.05741795741229505,
+        "startDate": "2014-12-31",
+        "months": 135
       },
       "arrayBuckets": [
         {
@@ -3727,7 +3936,8 @@
       "modelLabel": "Sydbank Model Defensiv",
       "modelKategory": "banks",
       "modelMainIssuer": "sydBank",
-      "strategicWeighModel": "",
+      "strategicWeightModel": "niDefensiv",
+      "issuerName": "Al-Sydbank A/S",
       "descriptionLong": "The Sydbank Defensive model portfolio is a globally diversified multi-asset strategy, constructed using the same strategic asset allocation framework as the Neptoon Global Defensive portfolio.\n\nDescription\nThe portfolio is built around Sydbank’s own selection of investment funds, combining actively managed funds with passive instruments where appropriate. This reflects Sydbank’s approach to portfolio construction within a structured multi-asset framework.\n\nStrategy\nThe portfolio follows a global multi-asset framework with a strategic target of 25% equities and 75% bonds. The objective is to deliver stable returns above the benchmark through diversified exposure and active fund selection.\n\nAllocation Framework\nThe portfolio provides a defensive mix of global fixed income and equity exposure. Alternative assets such as gold and commodities may be included to support diversification and reduce overall portfolio risk.\n\nImplementation\nThe portfolio is implemented using a combination of Sydbank funds and external instruments, incorporating both active and passive strategies across asset classes.\n\nInvestor Profile\nThe portfolio is designed for investors seeking stability with limited exposure to market fluctuations and a focus on capital preservation.",
       "objKeyFigures": {
         "expRetGross": 0.06665,
@@ -3738,6 +3948,16 @@
         "equityWeight": 0.35,
         "bondWeight": null,
         "alternativesWeight": 0
+      },
+      "objHistStatistics": {
+        "totalReturn": 0.5261831342188195,
+        "endDate": "2026-03-31",
+        "risk": 0.06722908649705665,
+        "startIndex": 100,
+        "endIndex": 152.61831342188194,
+        "cagr": 0.038294589898657305,
+        "startDate": "2014-12-31",
+        "months": 135
       },
       "arrayBuckets": [
         {
@@ -3921,7 +4141,8 @@
       "modelLabel": "Formuepleje Model Aggressiv",
       "modelKategory": "banks",
       "modelMainIssuer": "formueplejeBank",
-      "strategicWeighModel": "",
+      "strategicWeightModel": "niAggressiv",
+      "issuerName": "Formuepleje A/S",
       "descriptionLong": "The Formuepleje Aggressive model portfolio is a globally diversified multi-asset strategy, constructed within the same strategic allocation framework as the Neptoon Global Aggressive portfolio.\n\nDescription\nThe portfolio is based on Formuepleje’s investment universe, combining actively managed strategies with passive instruments where relevant. This reflects a more dynamic approach to portfolio construction within a multi-asset structure.\n\nStrategy\nThe portfolio follows a global multi-asset framework with a strategic target of 75% equities and 25% bonds. The objective is to generate returns above the benchmark through active allocation and fund selection.\n\nAllocation Framework\nThe portfolio provides exposure to global equity and fixed income markets, with the possibility to include alternative assets such as gold and commodities to enhance diversification.\n\nImplementation\nThe portfolio is implemented using a combination of Formuepleje funds and selected external instruments, incorporating both active and passive investment approaches.\n\nInvestor Profile\nThe portfolio is suited for investors seeking enhanced return potential and who are comfortable with higher levels of risk and volatility.",
       "objKeyFigures": {
         "expRetGross": 0.0846,
@@ -3932,6 +4153,16 @@
         "equityWeight": 0.8,
         "bondWeight": null,
         "alternativesWeight": 0
+      },
+      "objHistStatistics": {
+        "totalReturn": 1.4653791872686215,
+        "endDate": "2026-03-31",
+        "risk": 0.11025069078269434,
+        "startIndex": 100,
+        "endIndex": 246.53791872686216,
+        "cagr": 0.08351295649680646,
+        "startDate": "2014-12-31",
+        "months": 135
       },
       "arrayBuckets": [
         {
@@ -4115,7 +4346,8 @@
       "modelLabel": "Formuepleje Model Balanceret",
       "modelKategory": "banks",
       "modelMainIssuer": "formueplejeBank",
-      "strategicWeighModel": "",
+      "strategicWeightModel": "niBalanceret",
+      "issuerName": "Formuepleje A/S",
       "descriptionLong": "The Formuepleje Balanced model portfolio is a globally diversified multi-asset strategy, constructed within the same strategic allocation framework as the Neptoon Global Balanced portfolio.\n\nDescription\nThe portfolio is based on Formuepleje’s investment universe, combining actively managed strategies with passive instruments where relevant. This reflects a dynamic approach to portfolio construction within a multi-asset structure.\n\nStrategy\nThe portfolio follows a global multi-asset framework with a strategic target of 50% equities and 50% bonds. The objective is to generate returns above the benchmark through active allocation and fund selection.\n\nAllocation Framework\nThe portfolio provides balanced exposure to global equity and fixed income markets, with the possibility to include alternative assets such as gold and commodities to enhance diversification.\n\nImplementation\nThe portfolio is implemented using a combination of Formuepleje funds and selected external instruments, incorporating both active and passive investment approaches.\n\nInvestor Profile\nThe portfolio is suited for investors seeking balanced returns with moderate risk and controlled volatility.",
       "objKeyFigures": {
         "expRetGross": 0.0772,
@@ -4126,6 +4358,16 @@
         "equityWeight": 0.6,
         "bondWeight": null,
         "alternativesWeight": 0
+      },
+      "objHistStatistics": {
+        "totalReturn": 1.0549810389653747,
+        "endDate": "2026-03-31",
+        "risk": 0.0900952071128184,
+        "startIndex": 100,
+        "endIndex": 205.4981038965375,
+        "cagr": 0.0661176650835269,
+        "startDate": "2014-12-31",
+        "months": 135
       },
       "arrayBuckets": [
         {
@@ -4309,7 +4551,8 @@
       "modelLabel": "Formuepleje Model Defensiv",
       "modelKategory": "banks",
       "modelMainIssuer": "formueplejeBank",
-      "strategicWeighModel": "",
+      "strategicWeightModel": "niDefensiv",
+      "issuerName": "Formuepleje A/S",
       "descriptionLong": "The Formuepleje Defensive model portfolio is a globally diversified multi-asset strategy, constructed within the same strategic allocation framework as the Neptoon Global Defensive portfolio.\n\nDescription\nThe portfolio is based on Formuepleje’s investment universe, combining actively managed strategies with passive instruments where relevant. This reflects a dynamic yet controlled approach to portfolio construction.\n\nStrategy\nThe portfolio follows a global multi-asset framework with a strategic target of 25% equities and 75% bonds. The objective is to generate stable returns above the benchmark through active allocation and fund selection.\n\nAllocation Framework\nThe portfolio provides a defensive exposure to global fixed income markets, complemented by limited equity exposure. Alternative assets such as gold and commodities may be included to enhance diversification and downside protection.\n\nImplementation\nThe portfolio is implemented using a combination of Formuepleje funds and selected external instruments, incorporating both active and passive investment approaches.\n\nInvestor Profile\nThe portfolio is suited for investors seeking stability and capital preservation with controlled exposure to market risk.",
       "objKeyFigures": {
         "expRetGross": 0.06665,
@@ -4320,6 +4563,16 @@
         "equityWeight": 0.35,
         "bondWeight": null,
         "alternativesWeight": 0
+      },
+      "objHistStatistics": {
+        "totalReturn": 0.6412128318693997,
+        "endDate": "2026-03-31",
+        "risk": 0.0671634732396418,
+        "startIndex": 100,
+        "endIndex": 164.12128318693996,
+        "cagr": 0.04502280811295334,
+        "startDate": "2014-12-31",
+        "months": 135
       },
       "arrayBuckets": [
         {
@@ -4503,7 +4756,8 @@
       "modelLabel": "Nykredit Model Aggressiv",
       "modelKategory": "banks",
       "modelMainIssuer": "nykreditBank",
-      "strategicWeighModel": "",
+      "strategicWeightModel": "niAggressiv",
+      "issuerName": "Nykredit Bank A/S",
       "descriptionLong": "The Nykredit Aggressive model portfolio is a globally diversified multi-asset strategy, aligned with the same strategic allocation framework as the Neptoon Global Aggressive portfolio.\n\nDescription\nThe portfolio is built using Nykredit’s own range of investment funds, complemented by passive instruments where appropriate. This reflects Nykredit’s structured approach to asset allocation and fund selection.\n\nStrategy\nThe portfolio follows a global multi-asset framework with a strategic target of 75% equities and 25% bonds. The objective is to deliver returns above the benchmark through diversified exposure and active portfolio management.\n\nAllocation Framework\nThe portfolio provides diversified exposure across global equity and fixed income markets. Alternative assets such as gold and commodities may be included when relevant.\n\nImplementation\nThe portfolio is implemented through a combination of Nykredit funds and external instruments, applying both active and passive strategies across asset classes.\n\nInvestor Profile\nThe portfolio is designed for investors seeking long-term growth with a high tolerance for market fluctuations.",
       "objKeyFigures": {
         "expRetGross": 0.0846,
@@ -4514,6 +4768,16 @@
         "equityWeight": 0.8,
         "bondWeight": null,
         "alternativesWeight": 0
+      },
+      "objHistStatistics": {
+        "totalReturn": 1.3983387997253853,
+        "endDate": "2026-03-31",
+        "risk": 0.10969427158610463,
+        "startIndex": 100,
+        "endIndex": 239.8338799725385,
+        "cagr": 0.08086094631991059,
+        "startDate": "2014-12-31",
+        "months": 135
       },
       "arrayBuckets": [
         {
@@ -4697,7 +4961,8 @@
       "modelLabel": "Nykredit Model Balanceret",
       "modelKategory": "banks",
       "modelMainIssuer": "nykreditBank",
-      "strategicWeighModel": "",
+      "strategicWeightModel": "niBalanceret",
+      "issuerName": "Nykredit Bank A/S",
       "descriptionLong": "The Nykredit Balanced model portfolio is a globally diversified multi-asset strategy, aligned with the same strategic allocation framework as the Neptoon Global Balanced portfolio.\n\nDescription\nThe portfolio is built using Nykredit’s own range of investment funds, complemented by passive instruments where appropriate. This reflects Nykredit’s structured approach to asset allocation and fund selection.\n\nStrategy\nThe portfolio follows a global multi-asset framework with a strategic target of 50% equities and 50% bonds. The objective is to deliver returns above the benchmark through diversified exposure and active portfolio management.\n\nAllocation Framework\nThe portfolio provides balanced exposure across global equity and fixed income markets. Alternative assets such as gold and commodities may be included when relevant.\n\nImplementation\nThe portfolio is implemented through a combination of Nykredit funds and external instruments, applying both active and passive strategies across asset classes.\n\nInvestor Profile\nThe portfolio is designed for investors seeking a balanced investment approach with moderate risk.",
       "objKeyFigures": {
         "expRetGross": 0.0772,
@@ -4708,6 +4973,16 @@
         "equityWeight": 0.6,
         "bondWeight": null,
         "alternativesWeight": 0
+      },
+      "objHistStatistics": {
+        "totalReturn": 0.9698859507561803,
+        "endDate": "2026-03-31",
+        "risk": 0.08877484639685919,
+        "startIndex": 100,
+        "endIndex": 196.98859507561804,
+        "cagr": 0.06211744163517974,
+        "startDate": "2014-12-31",
+        "months": 135
       },
       "arrayBuckets": [
         {
@@ -4891,7 +5166,8 @@
       "modelLabel": "Nykredit Model Defensiv",
       "modelKategory": "banks",
       "modelMainIssuer": "nykreditBank",
-      "strategicWeighModel": "",
+      "strategicWeightModel": "niDefensiv",
+      "issuerName": "Nykredit Bank A/S",
       "descriptionLong": "The Nykredit Defensive model portfolio is a globally diversified multi-asset strategy, aligned with the same strategic allocation framework as the Neptoon Global Defensive portfolio.\n\nDescription\nThe portfolio is built using Nykredit’s own range of investment funds, complemented by passive instruments where appropriate. This reflects Nykredit’s structured approach to asset allocation and fund selection.\n\nStrategy\nThe portfolio follows a global multi-asset framework with a strategic target of 25% equities and 75% bonds. The objective is to deliver stable returns above the benchmark through diversified exposure and active portfolio management.\n\nAllocation Framework\nThe portfolio provides a defensive allocation across global fixed income and equity markets. Alternative assets such as gold and commodities may be included when relevant to enhance diversification.\n\nImplementation\nThe portfolio is implemented through a combination of Nykredit funds and external instruments, applying both active and passive strategies across asset classes.\n\nInvestor Profile\nThe portfolio is designed for investors seeking stability, low volatility, and capital preservation.",
       "objKeyFigures": {
         "expRetGross": 0.06665,
@@ -4902,6 +5178,16 @@
         "equityWeight": 0.35,
         "bondWeight": null,
         "alternativesWeight": 0
+      },
+      "objHistStatistics": {
+        "totalReturn": 0.5504622937396166,
+        "endDate": "2026-03-31",
+        "risk": 0.06473893644743572,
+        "startIndex": 100,
+        "endIndex": 155.04622937396167,
+        "cagr": 0.0397522892573301,
+        "startDate": "2014-12-31",
+        "months": 135
       },
       "arrayBuckets": [
         {
