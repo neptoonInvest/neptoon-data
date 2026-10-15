@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1">
+
+  <title>My Calculator</title>
+</head>
+<body>
+
+  <h2>My Calculator</h2>
+
+  <input id="a" type="number" value="10">
+  +
+  <input id="b" type="number" value="20">
+
+  <button onclick="calculate()">
+    Calculate
+  </button>
+
+  <h3 id="result">Y = 30</h3>
+
+  <script>
+    function calculate(){
+      const a = Number(
+        document.getElementById("a").value
+      );
+
+      const b = Number(
+        document.getElementById("b").value
+      );
+
+      document.getElementById("result")
+        .textContent = "Y = " + (a + b);
+    }
+  </script>
+
+</body>
+</html>
