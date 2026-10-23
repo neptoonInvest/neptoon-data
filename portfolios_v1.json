@@ -1,11 +1,12 @@
 {
   "version": "2026-10",
-  "updatedAt": "2026-10-15T14:04:20.804Z",
+  "updatedAt": "2026-10-23T09:13:52.891Z",
   "source": "Neptoon Invest",
   "count": 38,
   "portfolios": [
     {
       "modelNo": 0,
+      "issuerName": "NEPTOON WEALTH",
       "modelLabel": "Neptoon Aggressive",
       "modelKategory": "neptoon",
       "modelMainIssuer": "",
@@ -1570,6 +1571,7 @@
     },
     {
       "modelNo": 1,
+      "issuerName": "NEPTOON WEALTH",
       "modelLabel": "Neptoon Balanced",
       "modelKategory": "neptoon",
       "modelMainIssuer": "",
@@ -3134,6 +3136,7 @@
     },
     {
       "modelNo": 2,
+      "issuerName": "NEPTOON WEALTH",
       "modelLabel": "Neptoon Defensive",
       "modelKategory": "neptoon",
       "modelMainIssuer": "",
@@ -4698,6 +4701,7 @@
     },
     {
       "modelNo": 3,
+      "issuerName": "NW BOHR",
       "modelLabel": "Neptoon Bohr",
       "modelKategory": "neptoon",
       "modelMainIssuer": "",
@@ -6272,6 +6276,7 @@
     },
     {
       "modelNo": 4,
+      "issuerName": "NW ØRSTED",
       "modelLabel": "Neptoon Ørsted",
       "modelKategory": "neptoon",
       "modelMainIssuer": "",
@@ -7856,6 +7861,7 @@
     },
     {
       "modelNo": 5,
+      "issuerName": "NW TYCHO",
       "modelLabel": "Neptoon Tycho",
       "modelKategory": "neptoon",
       "modelMainIssuer": "",
@@ -9420,6 +9426,7 @@
     },
     {
       "modelNo": 6,
+      "issuerName": "NW TURING ",
       "modelLabel": "Neptoon Turing",
       "modelKategory": "neptoon",
       "modelMainIssuer": "",
@@ -10984,6 +10991,7 @@
     },
     {
       "modelNo": 7,
+      "issuerName": "NW OPPENHEIMER",
       "modelLabel": "Neptoon Oppenheimer",
       "modelKategory": "neptoon",
       "modelMainIssuer": "",
@@ -12548,6 +12556,7 @@
     },
     {
       "modelNo": 8,
+      "issuerName": "DANSKE BANK",
       "modelLabel": "Danske Bank Generic Aggressive",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -14112,6 +14121,7 @@
     },
     {
       "modelNo": 9,
+      "issuerName": "DANSKE BANK",
       "modelLabel": "Danske Bank Generic Balanced",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -15676,6 +15686,7 @@
     },
     {
       "modelNo": 10,
+      "issuerName": "DANSKE BANK",
       "modelLabel": "Danske Bank Generic Defensive",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -17240,6 +17251,7 @@
     },
     {
       "modelNo": 11,
+      "issuerName": "NORDEA BANK",
       "modelLabel": "Nordea Generic Aggressive",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -18804,6 +18816,7 @@
     },
     {
       "modelNo": 12,
+      "issuerName": "NORDEA BANK",
       "modelLabel": "Nordea Generic Balanced",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -20368,6 +20381,7 @@
     },
     {
       "modelNo": 13,
+      "issuerName": "NORDEA BANK",
       "modelLabel": "Nordea Generic Defensive",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -21932,6 +21946,7 @@
     },
     {
       "modelNo": 14,
+      "issuerName": "JYSKE BANK",
       "modelLabel": "Jyske Generic Aggressive",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -23496,6 +23511,7 @@
     },
     {
       "modelNo": 15,
+      "issuerName": "JYSKE BANK",
       "modelLabel": "Jyske Generic Balanced",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -25060,6 +25076,7 @@
     },
     {
       "modelNo": 16,
+      "issuerName": "JYSKE BANK",
       "modelLabel": "Jyske Generic Defensive",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -26624,6 +26641,7 @@
     },
     {
       "modelNo": 17,
+      "issuerName": "AL-SYDBANK",
       "modelLabel": "Sydbank Generic Aggressive",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -28188,6 +28206,7 @@
     },
     {
       "modelNo": 18,
+      "issuerName": "AL-SYDBANK",
       "modelLabel": "Sydbank Generic Balanced",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -29752,6 +29771,7 @@
     },
     {
       "modelNo": 19,
+      "issuerName": "AL-SYDBANK",
       "modelLabel": "Sydbank Generic Defensive",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -31316,6 +31336,7 @@
     },
     {
       "modelNo": 20,
+      "issuerName": "SPARINDEX DENMARK",
       "modelLabel": "SparIndex Generic Aggressive",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -32880,6 +32901,7 @@
     },
     {
       "modelNo": 21,
+      "issuerName": "SPARINDEX DENMARK",
       "modelLabel": "SparIndex Generic Balanced",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -34444,6 +34466,7 @@
     },
     {
       "modelNo": 22,
+      "issuerName": "SPARINDEX DENMARK",
       "modelLabel": "SparIndex Generic Defensive",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -36008,6 +36031,7 @@
     },
     {
       "modelNo": 23,
+      "issuerName": "NYKREDIT BANK",
       "modelLabel": "Nykredit Generic Aggressive",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -37572,6 +37596,7 @@
     },
     {
       "modelNo": 24,
+      "issuerName": "NYKREDIT BANK",
       "modelLabel": "Nykredit Generic Balanced",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -39136,6 +39161,7 @@
     },
     {
       "modelNo": 25,
+      "issuerName": "NYKREDIT BANK",
       "modelLabel": "Nykredit Generic Defensive",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -40700,6 +40726,7 @@
     },
     {
       "modelNo": 26,
+      "issuerName": "ALFRED BERG",
       "modelLabel": "Alfred Berg Generic Aggressive",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -42264,6 +42291,7 @@
     },
     {
       "modelNo": 27,
+      "issuerName": "ALFRED BERG",
       "modelLabel": "Alfred Berg Generic Balanced",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -43828,6 +43856,7 @@
     },
     {
       "modelNo": 28,
+      "issuerName": "ALFRED BERG",
       "modelLabel": "Alfred BergGeneric Defensive",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -45392,6 +45421,7 @@
     },
     {
       "modelNo": 29,
+      "issuerName": "DWS - DEUTSCHE BANK",
       "modelLabel": "DWS Generic Aggressive",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -46956,6 +46986,7 @@
     },
     {
       "modelNo": 30,
+      "issuerName": "DWS - DEUTSCHE BANK",
       "modelLabel": "DWS Generic Balanced",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -48520,6 +48551,7 @@
     },
     {
       "modelNo": 31,
+      "issuerName": "DWS - DEUTSCHE BANK",
       "modelLabel": "DWS Generic Defensive",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -50084,6 +50116,7 @@
     },
     {
       "modelNo": 32,
+      "issuerName": "ALLIANZ",
       "modelLabel": "Allianz Generic Aggressive",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -51648,6 +51681,7 @@
     },
     {
       "modelNo": 33,
+      "issuerName": "ALLIANZ",
       "modelLabel": "Allianz Generic Balanced",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -53212,6 +53246,7 @@
     },
     {
       "modelNo": 34,
+      "issuerName": "ALLIANZ",
       "modelLabel": "Allianz Generic Defensive",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -54776,6 +54811,7 @@
     },
     {
       "modelNo": 35,
+      "issuerName": "HSBC BANK",
       "modelLabel": "HSBC Generic Aggressive",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -56340,6 +56376,7 @@
     },
     {
       "modelNo": 36,
+      "issuerName": "HSBC BANK",
       "modelLabel": "HSBC Generic Balanced",
       "modelKategory": "banks",
       "modelMainIssuer": "",
@@ -57904,6 +57941,7 @@
     },
     {
       "modelNo": 37,
+      "issuerName": "HSBC BANK",
       "modelLabel": "HSBC Generic Defensive",
       "modelKategory": "banks",
       "modelMainIssuer": "",
