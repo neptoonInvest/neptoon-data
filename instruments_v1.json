@@ -18404,7 +18404,7 @@ const LIFE_CYCLE_FAQ = {
 
 
 /* A — INDKOMST */
-{
+
 
 
 {
@@ -18451,7 +18451,7 @@ const LIFE_CYCLE_FAQ = {
   ]
 },
 
-
+      {       
   id: "income",
   letter: "B",
   title: "Indkomst",
@@ -18496,20 +18496,19 @@ const LIFE_CYCLE_FAQ = {
 },
 
 
-
 /* B — FORBRUG */
 {
   id: "consumption",
-  letter: "C",
+  letter: "B",
   title: "Forbrug",
   items: [
     {
-      q: "Hvad betyder forbrug i Neptoon Wealth Life Cycle?",
-      a: "Der er 2 typer forbrug. Forbrug i Opsparingsfasen 1 som IKKE registreres i modellen. Forbrug i Nedsparingsfasen 2 som registreres eller beregnes. Dette forbrug kalder vi 'Passiv Indkomst' og er det der populært i dag kaldes FIRE beløbet som er det faste månedlige beløb, der kan trækkes ud af din valgte Nedsparingsportefølje 2 fra balancetidspunkt til død og stadig sikre at der står det på kontoen som du ønsker at efterleve i arv. Den 'Passive Indkomst' er et efterskat beløb i dagens købekraft - priser - og kan altså anvendes frit til forbrug uden yderligere bekymringer for formuen klarer eventuelle renteregninger til lån og andre forpligtelser. Beløbet er ikke en registrering af dine nuværende udgifter, men et udtryk for den levestandard, du ønsker at kunne opretholde uden at være afhængig af arbejdsindkomst."
+      q: "Hvad betyder forbrug i Neptoons Life Cycle?",
+      a: "Forbrug er det faste månedlige beløb, du ønsker at kunne finansiere fra din samlede økonomiske formue, når du har opnået balance og er overgået til Fase 2. Det er med andre ord dit mål for passiv indkomst efter skat, målt i dagens købekraft. Beløbet er ikke en registrering af dine nuværende udgifter, men et udtryk for den levestandard, du ønsker at kunne opretholde uden at være afhængig af arbejdsindAA<AZAZ<AZZSZZkomst."
     },
     {
       q: "Skal jeg indtaste mit nuværende månedlige forbrug?",
-      a: "Nej, ikke nødvendigvis. I Fase 1 – opsparingsfasen – har du allerede taget højde for dit nuværende forbrug, når du angiver, hvor meget du kan investere hver måned efter almindelige leveomkostninger, skatter og samtlige låneydelser. Neptoon beregner derfor ikke dit nuværende privatbudget. Forbrugsfeltet vedrører alene din ønskede passive efterskat indkomst - forbrug  - i Fase 2."
+      a: "Nej, ikke nødvendigvis. I Fase 1 – opsparingsfasen – har du allerede taget højde for dit nuværende forbrug, når du angiver, hvor meget du kan investere hver måned efter almindelige leveomkostninger, skatter og samtlige låneydelser. Neptoon beregner derfor ikke dit nuværende privatbudget. Forbrugsfeltet vedrører alene dit ønskede passive forbrug i Fase 2."
     },
     {
       q: "Hvad skal jeg konkret indtaste?",
@@ -18551,7 +18550,7 @@ const LIFE_CYCLE_FAQ = {
 /* C — OPSPARING */
 {
   id: "savings",
-  letter: "D",
+  letter: "C",
   title: "Opsparing",
   items: [
     {
@@ -18601,7 +18600,7 @@ const LIFE_CYCLE_FAQ = {
 /* N — INVESTERINGSPORTEFØLJER */
 {
   id: "investmentPortfolios",
-  letter: "E",
+  letter: "N",
   title: "Investeringsporteføljer",
   items: [
     {
@@ -18682,7 +18681,7 @@ const LIFE_CYCLE_FAQ = {
 /* D — SKAT */
 {
   id: "taxes",
-  letter: "F",
+  letter: "D",
   title: "Skat",
   items: [
     {
@@ -18724,7 +18723,7 @@ const LIFE_CYCLE_FAQ = {
 /* E — FAST EJENDOM */
 {
   id: "realEstate",
-  letter: "G",
+  letter: "E",
   title: "Fast ejendom",
   items: [
     {
@@ -18774,7 +18773,7 @@ const LIFE_CYCLE_FAQ = {
 /* F — PRIVAT VIRKSOMHED */
 {
   id: "enterprise",
-  letter: "H",
+  letter: "F",
   title: "Privat virksomhed",
   items: [
     {
@@ -18799,7 +18798,7 @@ const LIFE_CYCLE_FAQ = {
 /* G — PRIVAT PENSION */
 {
   id: "privatePension",
-  letter: "I",
+  letter: "G",
   title: "Privat pension",
   items: [
     {
@@ -18829,7 +18828,7 @@ const LIFE_CYCLE_FAQ = {
 /* H — FOLKEPENSION OG ATP */
 {
   id: "publicPension",
-  letter: "J",
+  letter: "H",
   title: "Folkepension og ATP Livslang Pension",
   items: [
     {
@@ -18877,7 +18876,7 @@ const LIFE_CYCLE_FAQ = {
 /* I — ANDRE FREMTIDIGE VÆRDIER */
 {
   id: "futureValues",
-  letter: "K",
+  letter: "I",
   title: "Andre fremtidige værdier",
   items: [
     {
@@ -18919,7 +18918,7 @@ const LIFE_CYCLE_FAQ = {
 /* J — LÅN OG FORPLIGTELSER */
 {
   id: "liabilities",
-  letter: "L",
+  letter: "J",
   title: "Lån og forpligtelser",
   items: [
     {
@@ -20841,6 +20840,51 @@ lifePhasesIntro:
   introLifeCycleCaption:
     "Dine økonomiske ressourcer gennem livet",
 
+
+/* ===== WELCOME JOURNEY ===== */
+
+welcomeJourneyKicker: "01 · LIVETS FIRE ØKONOMISKE FASER",
+welcomeJourneyTitle: "Fire livsfaser. Fire spørgsmål. Én model.",
+welcomeJourneyDescription: "Dine økonomiske spørgsmål ændrer sig gennem livet. Udforsk, hvordan den samme model hjælper dig med at forstå dine muligheder.",
+
+lifeStage1Name: "Begyndelsen",
+lifeStage2Name: "Familie & formue",
+lifeStage3Name: "Økonomisk frihed",
+lifeStage4Name: "Forbrug & arv",
+
+lifeStage1Counter: "01 / 04 · BEGYNDELSEN",
+lifeStage2Counter: "02 / 04 · FAMILIE & FORMUE",
+lifeStage3Counter: "03 / 04 · ØKONOMISK FRIHED",
+lifeStage4Counter: "04 / 04 · FORBRUG & ARV",
+
+lifeStage1Question: "Hvor meget skal jeg spare op – og hvor meget kan jeg bruge i dag?",
+lifeStage2Question: "Hvordan balancerer jeg familiens forbrug, bolig og langsigtede formue?",
+lifeStage3Question: "Hvornår kan jeg opnå økonomisk frihed?",
+lifeStage4Question: "Hvor meget kan jeg forbruge og samtidig bevare min ønskede arv?",
+
+lifeStage1Answer: "Udforsk, hvordan månedlig opsparing, investeringsafkast og tid påvirker din fremtidige økonomiske frihed.",
+lifeStage2Answer: "Undersøg, hvordan bolig, pension, opsparing og familiens løbende forbrug påvirker din samlede økonomi.",
+lifeStage3Answer: "Se, hvornår din samlede økonomiske formue kan finansiere dit ønskede forbrug uden yderligere opsparing.",
+lifeStage4Answer: "Undersøg, hvordan du kan finansiere dit forbrug gennem resten af livet og samtidig efterlade den arv, du ønsker.",
+
+lifeStage1Keywords: "OPSPARING · INVESTERINGER · TIDSHORISONT",
+lifeStage2Keywords: "BOLIG · PENSION · FAMILIEØKONOMI",
+lifeStage3Keywords: "ØKONOMISK FRIHED · FORMUE · FORBRUG",
+lifeStage4Keywords: "FORBRUG · PENSION · ARV",
+
+lifeStageNextButton: "Næste livsfase →",
+welcomeJourneyBridge: "Fra livets muligheder til din egen økonomi",
+
+/* ===== PERSONAL LIFE CYCLE ===== */
+
+welcomeStartKicker: "02 · DIN PERSONLIGE LIFE CYCLE",
+welcomeStartTitle: "Begynd med det mest sikre og usikre – din resterende levetid",
+welcomeStartDescription: "Hvor er du i dit økonomiske liv? Begynd med din nuværende alder og din forventede levetid.",
+
+currentAge: "Nuværende alder",
+expectedLifetime: "Forventet levetid",
+
+
   compareOwnToday:
     "Hvad ejer jeg i dag?",
 
@@ -21046,7 +21090,7 @@ lcMountainExcelConsent:"Jeg accepterer, at Neptoon gemmer min e-mailadresse i fo
 portfolioConfigKicker:
   "GLOBALE DIVERSIFICEREDE PORTEFØLJER ",
 appKicker: "NEPTOON WEALTH LIFECYCLE",
-appName: "NavigationHeike mellem privatøkonomi og finansielle formuer",
+appName: "Navigationmaria3 mellem privatøkonomi og finansielle formuer",
 welcomeStartKicker:"Den biologiske indstilling - modellens ramme",
 welcomeStartTitle:"Begynd med det mest sikre og usikre - din restlevetid",
 
@@ -21064,7 +21108,7 @@ portfolioConfigTitle:
     navLegal: "Andet", 
 
 portfolioConfigIntro:
-  "Vælg aktivt de 2 investeringsporteføljer her, eller anvend de forudindstillede som har høj risiko i opsparingsfasen og lav risiko i nedsparingsfasen. Alle porteføljer er modelporteføljer og ikke bankernes egne. Det er til gengæld de underliggende instrumenter. Risiko og aktivfordeling vises som beskrivende nøgletal. Historik og mere information kan ses i andet faneblad",
+  "Vælg aktivt de 2 investeringsporteføljer her, eller anvend de forudindstillede som har høj risiko i opsparingsfasen og lav risiko i nedsparingsfasen. Alle porteføljer er modelporteføljer og ikke bankernes egne. Det er tilgengæld de underliggende instrumenter. Risiko og aktivfordeling vises som beskrivende nøgletal. Historik og mere information kan ses i andet faneblad",
 welcomeLearnTitle:"Forstå Neptoon Wealth Life Cycle modellen - de store linjer",
 
 // DA
@@ -22435,42 +22479,7 @@ otherAssetTaxNote:
   },
 
 
-// WELCOME JOURNEY · FOUR LIFE STAGES
-
-welcomeJourneyKicker:"01 · LIVETS FIRE ØKONOMISKE FASER",
-welcomeJourneyTitle:"Fire livsfaser. Fire spørgsmål. Én model.",
-welcomeJourneyDescription:"Dine økonomiske spørgsmål ændrer sig gennem livet. Se, hvordan den samme model kan hjælpe dig med at udforske svarene.",
-
-lifeStage1Name:"Begyndelsen",
-lifeStage2Name:"Familie & formue",
-lifeStage3Name:"Økonomisk frihed",
-lifeStage4Name:"Forbrug & arv",
-
-lifeStage1Counter:"01 / 04 · BEGYNDELSEN",
-lifeStage2Counter:"02 / 04 · FAMILIE & FORMUE",
-lifeStage3Counter:"03 / 04 · ØKONOMISK FRIHED",
-lifeStage4Counter:"04 / 04 · FORBRUG & ARV",
-
-lifeStage1Question:"Hvor meget skal jeg spare op – og hvor meget kan jeg bruge i dag?",
-lifeStage2Question:"Hvordan balancerer jeg familiens forbrug, bolig og langsigtede formue?",
-lifeStage3Question:"Hvornår kan jeg opnå økonomisk frihed?",
-lifeStage4Question:"Hvor meget kan jeg forbruge og samtidig bevare min ønskede arv?",
-
-lifeStage1Answer:"Udforsk, hvordan månedlig opsparing, investeringsafkast og tid påvirker din fremtidige økonomiske frihed.",
-lifeStage2Answer:"Undersøg, hvordan bolig, pension, opsparing og familiens løbende forbrug påvirker din samlede økonomi.",
-lifeStage3Answer:"Se, hvornår din samlede økonomiske formue kan finansiere dit ønskede forbrug uden yderligere opsparing.",
-lifeStage4Answer:"Undersøg, hvordan du kan finansiere dit forbrug gennem resten af livet og samtidig efterlade den arv, du ønsker.",
-
-lifeStage1Keywords:"OPSPARING · INVESTERINGER · TIDSHORISONT",
-lifeStage2Keywords:"BOLIG · PENSION · FAMILIEØKONOMI",
-lifeStage3Keywords:"ØKONOMISK FRIHED · FORMUE · FORBRUG",
-lifeStage4Keywords:"FORBRUG · PENSION · ARV",
-
-lifeStageNextButton:"Næste livsfase →",
-welcomeJourneyBridge:"Fra livets muligheder til din egen økonomi",
-
-
-
+	
 
 
 
@@ -23018,6 +23027,76 @@ console.log("BOOT 2b — setPerspective defined");
    LIFE CYCLE — RESTORE SUPABASE SESSION
 ===================================================== */
 
+/* =====================================================
+   NEPTOON LIFE CYCLE · WELCOME JOURNEY
+   Four interactive life stages · DA / EN
+===================================================== */
+
+function initLifeWelcomeJourney(){
+
+  const root = document.getElementById("lifeWelcomeJourney");
+  if(!root || root.dataset.initialized === "1") return;
+
+  root.dataset.initialized = "1";
+
+  const cards = [...root.querySelectorAll(".lifeStageCard")];
+  const dots = [...root.querySelectorAll(".lifeStageTimelineDot")];
+
+  const counter = document.getElementById("lifeStageCounter");
+  const ageRange = document.getElementById("lifeStageAgeRange");
+  const question = document.getElementById("lifeStageQuestion");
+  const answer = document.getElementById("lifeStageAnswer");
+  const keywords = document.getElementById("lifeStageKeywords");
+  const nextBtn = document.getElementById("lifeStageNextButton");
+
+  const ageRanges = ["18–30", "30–50", "50–67", "67+"];
+
+  let activeStage = 0;
+
+  function paint(){
+
+const lang = INIT.lang === "da" ? "da" : "en";
+const L = TXT[lang];
+
+    const n = activeStage + 1;
+
+    cards.forEach((card, i) => {
+      const active = i === activeStage;
+      card.classList.toggle("active", active);
+      card.setAttribute("aria-pressed", String(active));
+    });
+
+    dots.forEach((dot, i) => {
+      dot.classList.toggle("active", i === activeStage);
+    });
+
+    if(counter) counter.textContent = L[`lifeStage${n}Counter`] || "";
+    if(ageRange) ageRange.textContent = ageRanges[activeStage] + (lang === "da" ? " ÅR" : " YEARS");
+    if(question) question.textContent = L[`lifeStage${n}Question`] || "";
+    if(answer) answer.textContent = L[`lifeStage${n}Answer`] || "";
+    if(keywords) keywords.textContent = L[`lifeStage${n}Keywords`] || "";
+    if(nextBtn) nextBtn.textContent = L.lifeStageNextButton || "Next life stage →";
+  }
+
+  cards.forEach((card, i) => {
+    card.addEventListener("click", () => {
+      activeStage = i;
+      paint();
+    });
+  });
+
+  nextBtn?.addEventListener("click", () => {
+    activeStage = (activeStage + 1) % cards.length;
+    paint();
+  });
+
+  window.paintLifeWelcomeJourney = paint;
+
+  paint();
+}
+
+
+
 async function restoreLifeCycleSession(){
 
   try{
@@ -23146,6 +23225,8 @@ function setLanguage(lang, save = true){
   if(typeof window.applyLang === "function"){
     window.applyLang(lang);
   }
+
+window.paintLifeWelcomeJourney?.();
 
   /*
     REFRESH ACTIVE PERSPECTIVE
@@ -40727,7 +40808,7 @@ console.log("WEB INIT 11");
    INIT BOOT
 ===================================================== */
 
-
+initLifeWelcomeJourney();
 console.log("BOOT 17");
 bindComponentButtons();
 bindTaxOptions();
@@ -40779,6 +40860,7 @@ render();
 
 console.log("BOOT 21");
 bindFooterInfo();
+
 
 console.log("BOOT 22");
 applyLang("da");
