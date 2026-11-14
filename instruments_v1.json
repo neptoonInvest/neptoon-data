@@ -1,6 +1,6 @@
 {
   "version": "2026-11",
-  "updatedAt": "2026-11-08T13:58:40.874Z",
+  "updatedAt": "2026-11-14T11:14:29.642Z",
   "source": "Neptoon Invest",
   "count": 538,
   "groupCount": 30,
@@ -27,6 +27,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR Short Gov - Covered/Mortgage "
@@ -48,6 +49,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR Short Gov - Covered/Mortgage "
@@ -69,6 +71,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR Short Gov - Covered/Mortgage "
@@ -90,6 +93,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR Short Gov - Covered/Mortgage "
@@ -111,6 +115,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR Short Gov - Covered/Mortgage "
@@ -132,6 +137,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR Short Gov - Covered/Mortgage "
@@ -153,6 +159,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR Short Gov - Covered/Mortgage "
@@ -174,6 +181,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR Short Gov - Covered/Mortgage "
@@ -202,6 +210,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR Long Gov - Covered/Mortgage"
@@ -223,6 +232,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR Long Gov - Covered/Mortgage"
@@ -244,6 +254,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR Long Gov - Covered/Mortgage"
@@ -265,6 +276,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR Long Gov - Covered "
@@ -286,6 +298,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR Long Gov - Covered/Mortgage"
@@ -307,6 +320,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR Long Gov - Covered/Mortgage"
@@ -328,6 +342,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR Long Gov - Covered/Mortgage"
@@ -349,6 +364,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR Long Gov - Covered/Mortgage"
@@ -370,6 +386,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR Long Gov - Covered "
@@ -398,6 +415,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR Investmet Grade (IG)"
@@ -419,6 +437,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR Investmet Grade (IG)"
@@ -440,6 +459,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR Investmest Grade (IG)"
@@ -461,6 +481,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR Investmest Grade (IG)"
@@ -482,6 +503,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR Investmest Grade (IG)"
@@ -503,6 +525,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR Investmest Grade (IG)"
@@ -524,6 +547,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR Investmet Grade (IG)"
@@ -545,6 +569,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR Investmest Grade (IG)"
@@ -566,6 +591,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR Investmest Grade (IG)"
@@ -594,6 +620,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR High Yield Grade (HY)"
@@ -615,6 +642,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR High Yield Grade (HY)"
@@ -636,6 +664,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR High Yield Grade (HY)"
@@ -657,6 +686,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR High Yield Grade (HY)"
@@ -678,6 +708,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR High Yield Grade (HY)"
@@ -699,6 +730,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR High Yield Grade (HY)"
@@ -720,6 +752,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR High Yield Grade (HY)"
@@ -741,6 +774,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR High Yield Grade (HY)"
@@ -762,6 +796,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR High Yield Grade (HY)"
@@ -783,6 +818,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR High Yield Grade (HY)"
@@ -804,6 +840,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR High Yield Grade (HY)"
@@ -825,6 +862,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "EUR High Yield Grade (HY)"
@@ -853,6 +891,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "Emerging Market Bonds (EMD)"
@@ -874,6 +913,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "Emerging Market Bonds (EMD)"
@@ -895,6 +935,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "Emerging Market Bonds (EMD)"
@@ -916,6 +957,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "Emerging Market Bonds (EMD)"
@@ -937,6 +979,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Bonds",
           "classMajorEng": "Emerging Market Bonds (EMD)"
@@ -965,6 +1008,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Denmark"
@@ -986,6 +1030,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Denmark"
@@ -1007,6 +1052,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Denmark"
@@ -1028,6 +1074,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Denmark"
@@ -1049,6 +1096,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Denmark"
@@ -1070,6 +1118,7 @@
           "isPositivListe": true,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Denmark"
@@ -1091,6 +1140,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Denmark"
@@ -1119,6 +1169,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Nordics"
@@ -1140,6 +1191,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Nordic"
@@ -1161,6 +1213,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Nordics"
@@ -1182,6 +1235,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Nordic"
@@ -1203,6 +1257,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Nordic"
@@ -1224,6 +1279,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Nordics"
@@ -1252,6 +1308,7 @@
           "isPositivListe": true,
           "isAcc": false,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Germany"
@@ -1273,6 +1330,7 @@
           "isPositivListe": true,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Germany"
@@ -1294,6 +1352,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Germany"
@@ -1315,6 +1374,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Germany"
@@ -1336,6 +1396,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Germany"
@@ -1364,6 +1425,7 @@
           "isPositivListe": true,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "United States"
@@ -1385,6 +1447,7 @@
           "isPositivListe": true,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "US"
@@ -1406,6 +1469,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "United States"
@@ -1427,6 +1491,7 @@
           "isPositivListe": true,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "US"
@@ -1448,6 +1513,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "United States"
@@ -1469,6 +1535,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "United States"
@@ -1490,6 +1557,7 @@
           "isPositivListe": true,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "US"
@@ -1511,6 +1579,7 @@
           "isPositivListe": true,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "US"
@@ -1532,6 +1601,7 @@
           "isPositivListe": true,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "United States"
@@ -1553,6 +1623,7 @@
           "isPositivListe": true,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "US"
@@ -1574,6 +1645,7 @@
           "isPositivListe": true,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "US"
@@ -1602,6 +1674,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Europe"
@@ -1623,6 +1696,7 @@
           "isPositivListe": true,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Europe"
@@ -1644,6 +1718,7 @@
           "isPositivListe": true,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Europe"
@@ -1665,6 +1740,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Europe"
@@ -1686,6 +1762,7 @@
           "isPositivListe": true,
           "isAcc": false,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Europe"
@@ -1707,6 +1784,7 @@
           "isPositivListe": true,
           "isAcc": false,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Europe"
@@ -1728,6 +1806,7 @@
           "isPositivListe": true,
           "isAcc": false,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Europe"
@@ -1749,6 +1828,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Europe"
@@ -1770,6 +1850,7 @@
           "isPositivListe": true,
           "isAcc": false,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Europe"
@@ -1791,6 +1872,7 @@
           "isPositivListe": true,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Europe"
@@ -1812,6 +1894,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Europe"
@@ -1833,6 +1916,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Europe"
@@ -1854,6 +1938,7 @@
           "isPositivListe": true,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Europe"
@@ -1882,6 +1967,7 @@
           "isPositivListe": true,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Europe East"
@@ -1910,6 +1996,7 @@
           "isPositivListe": true,
           "isAcc": false,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "United Kingdom"
@@ -1931,6 +2018,7 @@
           "isPositivListe": true,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "UK"
@@ -1959,6 +2047,7 @@
           "isPositivListe": true,
           "isAcc": false,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Japan"
@@ -1980,6 +2069,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Japan"
@@ -2008,6 +2098,7 @@
           "isPositivListe": true,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Australia"
@@ -2036,6 +2127,7 @@
           "isPositivListe": true,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "China"
@@ -2057,6 +2149,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "China"
@@ -2085,6 +2178,7 @@
           "isPositivListe": true,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "India"
@@ -2113,6 +2207,7 @@
           "isPositivListe": true,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Brazil"
@@ -2141,6 +2236,7 @@
           "isPositivListe": true,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "MSCI Emerging (DM)"
@@ -2162,6 +2258,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "MSCI Developed (DM)"
@@ -2183,6 +2280,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "MSCI Developed (DM)"
@@ -2204,6 +2302,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "MSCI Developed (DM)"
@@ -2225,6 +2324,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "MSCI Developed (DM)"
@@ -2253,6 +2353,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Emerging "
@@ -2274,6 +2375,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "MSCI Emerging (DM)"
@@ -2295,6 +2397,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Emerging "
@@ -2316,6 +2419,7 @@
           "isPositivListe": true,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "MSCI Emerging (DM)"
@@ -2337,6 +2441,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "MSCI Emerging (DM)"
@@ -2358,6 +2463,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "MSCI Emerging (DM)"
@@ -2379,6 +2485,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "MSCI Emerging (DM)"
@@ -2400,6 +2507,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Emerging "
@@ -2421,6 +2529,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Emerging "
@@ -2442,6 +2551,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Emerging "
@@ -2470,6 +2580,7 @@
           "isPositivListe": true,
           "isAcc": true,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "MSCI Developed + Emerging (DM+EM)"
@@ -2491,6 +2602,7 @@
           "isPositivListe": true,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global DM + Global EM"
@@ -2512,6 +2624,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "MSCI Developed + Emerging (DM+EM)"
@@ -2533,6 +2646,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "MSCI Developed (DM)"
@@ -2554,6 +2668,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Mutual Fund",
+          "beta": 1,
           "typeLabelDk": "InvestFond",
           "classMajorTopEng": "Equity",
           "classMajorEng": "MSCI Developed + Emerging (DM+EM)"
@@ -2575,6 +2690,7 @@
           "isPositivListe": true,
           "isAcc": false,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "MSCI Developed + Emerging (DM+EM)"
@@ -2603,6 +2719,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Alternatives",
           "classMajorEng": "Commodities"
@@ -2631,6 +2748,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Alternatives",
           "classMajorEng": "Gold"
@@ -2659,6 +2777,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Alternatives",
           "classMajorEng": "Real Estate"
@@ -2687,6 +2806,7 @@
           "isPositivListe": true,
           "isAcc": false,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Alternatives",
           "classMajorEng": "Infrastructure"
@@ -2715,6 +2835,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Alternatives",
           "classMajorEng": "Cryptocurrency"
@@ -2743,6 +2864,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Defense"
@@ -2764,6 +2886,7 @@
           "isPositivListe": true,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Defense"
@@ -2792,6 +2915,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Future Mobility"
@@ -2813,6 +2937,7 @@
           "isPositivListe": true,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Future Mobility"
@@ -2841,6 +2966,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Artificial Intelligence"
@@ -2862,6 +2988,7 @@
           "isPositivListe": true,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Artificial Intelligence (AI)"
@@ -2890,6 +3017,7 @@
           "isPositivListe": false,
           "isAcc": true,
           "typeLabelEng": "ETF",
+          "beta": 1,
           "typeLabelDk": "ETF",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Leverage"
@@ -2918,6 +3046,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -2939,6 +3068,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -2960,6 +3090,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -2981,6 +3112,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3002,6 +3134,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3023,6 +3156,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3044,6 +3178,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3065,6 +3200,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3086,6 +3222,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -3107,6 +3244,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3128,6 +3266,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3149,6 +3288,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3170,6 +3310,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3191,6 +3332,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3212,6 +3354,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3233,6 +3376,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3254,6 +3398,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3275,6 +3420,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3296,6 +3442,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3317,6 +3464,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3338,6 +3486,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3359,6 +3508,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3380,6 +3530,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3401,6 +3552,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3422,6 +3574,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3443,6 +3596,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3464,6 +3618,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3485,6 +3640,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3506,6 +3662,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3527,6 +3684,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3548,6 +3706,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3569,6 +3728,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3590,6 +3750,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3611,6 +3772,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3632,6 +3794,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3653,6 +3816,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3674,6 +3838,7 @@
           "isPositivListe": null,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3695,6 +3860,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3716,6 +3882,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3737,6 +3904,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3758,6 +3926,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3779,6 +3948,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3800,6 +3970,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3821,6 +3992,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3842,6 +4014,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3863,6 +4036,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3884,6 +4058,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -3905,6 +4080,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3926,6 +4102,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3947,6 +4124,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3968,6 +4146,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -3989,6 +4168,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4010,6 +4190,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4031,6 +4212,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4052,6 +4234,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4073,6 +4256,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -4094,6 +4278,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4115,6 +4300,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4136,6 +4322,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -4157,6 +4344,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4178,6 +4366,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4199,6 +4388,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -4220,6 +4410,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4241,6 +4432,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4262,6 +4454,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4283,6 +4476,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4304,6 +4498,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4325,6 +4520,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4346,6 +4542,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4367,6 +4564,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4388,6 +4586,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4409,6 +4608,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4430,6 +4630,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4451,6 +4652,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4472,6 +4674,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -4493,6 +4696,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4514,6 +4718,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4535,6 +4740,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4556,6 +4762,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4577,6 +4784,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4598,6 +4806,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4619,6 +4828,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4640,6 +4850,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4661,6 +4872,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4682,6 +4894,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4703,6 +4916,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4724,6 +4938,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -4745,6 +4960,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4766,6 +4982,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4787,6 +5004,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4808,6 +5026,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4829,6 +5048,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4850,6 +5070,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4871,6 +5092,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4892,6 +5114,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4913,6 +5136,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4934,6 +5158,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4955,6 +5180,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4976,6 +5202,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -4997,6 +5224,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5018,6 +5246,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5039,6 +5268,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -5060,6 +5290,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5081,6 +5312,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5102,6 +5334,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -5123,6 +5356,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5144,6 +5378,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5165,6 +5400,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5186,6 +5422,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5207,6 +5444,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5228,6 +5466,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5249,6 +5488,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5270,6 +5510,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5291,6 +5532,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5312,6 +5554,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5333,6 +5576,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5354,6 +5598,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5375,6 +5620,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5396,6 +5642,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5417,6 +5664,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5438,6 +5686,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5459,6 +5708,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5480,6 +5730,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5501,6 +5752,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5522,6 +5774,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -5543,6 +5796,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5564,6 +5818,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5585,6 +5840,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5606,6 +5862,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5627,6 +5884,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5648,6 +5906,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5669,6 +5928,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5690,6 +5950,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5711,6 +5972,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -5732,6 +5994,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5753,6 +6016,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5774,6 +6038,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5795,6 +6060,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5816,6 +6082,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5837,6 +6104,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5858,6 +6126,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5879,6 +6148,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -5900,6 +6170,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5921,6 +6192,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5942,6 +6214,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5963,6 +6236,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -5984,6 +6258,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6005,6 +6280,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6026,6 +6302,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -6047,6 +6324,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6068,6 +6346,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6089,6 +6368,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6110,6 +6390,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6131,6 +6412,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6152,6 +6434,7 @@
           "isPositivListe": null,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed (DM)"
@@ -6173,6 +6456,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6194,6 +6478,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6215,6 +6500,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6236,6 +6522,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6257,6 +6544,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6278,6 +6566,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6299,6 +6588,7 @@
           "isPositivListe": null,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed (DM)"
@@ -6320,6 +6610,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -6341,6 +6632,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -6362,6 +6654,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -6383,6 +6676,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6404,6 +6698,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -6425,6 +6720,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6446,6 +6742,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6467,6 +6764,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6488,6 +6786,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6509,6 +6808,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6530,6 +6830,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -6551,6 +6852,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6572,6 +6874,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6593,6 +6896,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6614,6 +6918,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6635,6 +6940,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6656,6 +6962,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6677,6 +6984,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6698,6 +7006,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -6719,6 +7028,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6740,6 +7050,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6761,6 +7072,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6782,6 +7094,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -6803,6 +7116,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6824,6 +7138,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6845,6 +7160,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6866,6 +7182,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6887,6 +7204,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -6908,6 +7226,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6929,6 +7248,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6950,6 +7270,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6971,6 +7292,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -6992,6 +7314,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7013,6 +7336,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7034,6 +7358,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7055,6 +7380,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7076,6 +7402,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7097,6 +7424,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7118,6 +7446,7 @@
           "isPositivListe": null,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7139,6 +7468,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7160,6 +7490,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7181,6 +7512,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7202,6 +7534,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7223,6 +7556,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7244,6 +7578,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7265,6 +7600,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7286,6 +7622,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7307,6 +7644,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7328,6 +7666,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7349,6 +7688,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7370,6 +7710,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7391,6 +7732,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7412,6 +7754,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7433,6 +7776,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7454,6 +7798,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7475,6 +7820,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7496,6 +7842,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7517,6 +7864,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7538,6 +7886,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7559,6 +7908,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7580,6 +7930,7 @@
           "isPositivListe": null,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed (DM)"
@@ -7601,6 +7952,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7622,6 +7974,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7643,6 +7996,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7664,6 +8018,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7685,6 +8040,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7706,6 +8062,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7727,6 +8084,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -7748,6 +8106,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7769,6 +8128,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7790,6 +8150,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7811,6 +8172,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7832,6 +8194,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7853,6 +8216,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7874,6 +8238,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7895,6 +8260,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7916,6 +8282,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7937,6 +8304,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7958,6 +8326,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -7979,6 +8348,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8000,6 +8370,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8021,6 +8392,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8042,6 +8414,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8063,6 +8436,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8084,6 +8458,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8105,6 +8480,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8126,6 +8502,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8147,6 +8524,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -8168,6 +8546,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8189,6 +8568,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8210,6 +8590,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8231,6 +8612,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8252,6 +8634,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8273,6 +8656,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -8294,6 +8678,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8315,6 +8700,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8336,6 +8722,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8357,6 +8744,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8378,6 +8766,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8399,6 +8788,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8420,6 +8810,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8441,6 +8832,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8462,6 +8854,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8483,6 +8876,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8504,6 +8898,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -8525,6 +8920,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -8546,6 +8942,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8567,6 +8964,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8588,6 +8986,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -8609,6 +9008,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8630,6 +9030,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8651,6 +9052,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8672,6 +9074,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8693,6 +9096,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8714,6 +9118,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8735,6 +9140,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8756,6 +9162,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8777,6 +9184,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8798,6 +9206,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8819,6 +9228,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8840,6 +9250,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8861,6 +9272,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8882,6 +9294,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8903,6 +9316,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8924,6 +9338,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8945,6 +9360,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -8966,6 +9382,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -8987,6 +9404,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9008,6 +9426,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9029,6 +9448,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9050,6 +9470,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9071,6 +9492,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9092,6 +9514,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9113,6 +9536,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -9134,6 +9558,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9155,6 +9580,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9176,6 +9602,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9197,6 +9624,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9218,6 +9646,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9239,6 +9668,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9260,6 +9690,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9281,6 +9712,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9302,6 +9734,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9323,6 +9756,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9344,6 +9778,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9365,6 +9800,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9386,6 +9822,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9407,6 +9844,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9428,6 +9866,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -9449,6 +9888,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9470,6 +9910,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9491,6 +9932,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -9512,6 +9954,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9533,6 +9976,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9554,6 +9998,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9575,6 +10020,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -9596,6 +10042,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -9617,6 +10064,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9638,6 +10086,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9659,6 +10108,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9680,6 +10130,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9701,6 +10152,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9722,6 +10174,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9743,6 +10196,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9764,6 +10218,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -9785,6 +10240,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9806,6 +10262,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9827,6 +10284,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9848,6 +10306,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9869,6 +10328,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9890,6 +10350,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9911,6 +10372,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9932,6 +10394,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9953,6 +10416,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9974,6 +10438,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -9995,6 +10460,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10016,6 +10482,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10037,6 +10504,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10058,6 +10526,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10079,6 +10548,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10100,6 +10570,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10121,6 +10592,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10142,6 +10614,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10163,6 +10636,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10184,6 +10658,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10205,6 +10680,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10226,6 +10702,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10247,6 +10724,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10268,6 +10746,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10289,6 +10768,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -10310,6 +10790,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10331,6 +10812,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10352,6 +10834,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10373,6 +10856,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10394,6 +10878,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10415,6 +10900,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10436,6 +10922,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10457,6 +10944,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10478,6 +10966,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10499,6 +10988,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10520,6 +11010,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10541,6 +11032,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -10562,6 +11054,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10583,6 +11076,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10604,6 +11098,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10625,6 +11120,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10646,6 +11142,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -10667,6 +11164,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10688,6 +11186,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10709,6 +11208,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10730,6 +11230,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10751,6 +11252,7 @@
           "isPositivListe": null,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10772,6 +11274,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10793,6 +11296,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10814,6 +11318,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10835,6 +11340,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10856,6 +11362,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10877,6 +11384,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10898,6 +11406,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10919,6 +11428,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10940,6 +11450,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -10961,6 +11472,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -10982,6 +11494,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -11003,6 +11516,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -11024,6 +11538,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -11045,6 +11560,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -11066,6 +11582,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -11087,6 +11604,7 @@
           "isPositivListe": null,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -11108,6 +11626,7 @@
           "isPositivListe": null,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -11129,6 +11648,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -11150,6 +11670,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -11171,6 +11692,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -11192,6 +11714,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -11213,6 +11736,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -11234,6 +11758,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -11255,6 +11780,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -11276,6 +11802,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -11297,6 +11824,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -11318,6 +11846,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -11339,6 +11868,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -11360,6 +11890,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -11381,6 +11912,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -11402,6 +11934,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -11423,6 +11956,7 @@
           "isPositivListe": null,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -11444,6 +11978,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -11465,6 +12000,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Equity",
           "classMajorEng": "Global Developed"
@@ -11486,6 +12022,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
@@ -11507,6 +12044,7 @@
           "isPositivListe": false,
           "isAcc": false,
           "typeLabelEng": "Stock",
+          "beta": 1,
           "typeLabelDk": "Aktie",
           "classMajorTopEng": "Stocks",
           "classMajorEng": "Equity"
